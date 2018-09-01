@@ -1,0 +1,20 @@
+﻿#QUERY 1
+select max(v.precio), date_part('day', op.fecha) , i.categoria, i.ciudad from  operacioninmobiliaria as op 
+join venta as v on op.idventa = v.id 
+join inmueble as i on op.idventa = i.id
+GROUP BY op.fecha, i.categoria, i.ciudad
+
+
+#QUERY 2
+select max(v.precio), date_part('day', op.fecha), a.nombre, a.apellido from  operacioninmobiliaria as op 
+join venta as v on op.idventa = v.id 
+join agente as a on op.idventa = a.id
+GROUP BY op.fecha, a.nombre, a.apellido
+
+
+#QUERY 3
+select avg(v.duracion), i.categoria from  operacioninmobiliaria as op 
+join visita as v on op.idventa = v.id 
+join inmueble as i on op.idventa = i.id
+GROUP BY i.categoria
+
