@@ -1,0 +1,1001 @@
+codigo,nombre,tipo,preciobotella,preciocaja,clase,vintage
+1,Narrowleaf Yerba Santa,Sangiovese,1288.39,3375.94,199,Primavera
+2,Norway Sedge,Sangiovese,404.98,5375.0,140,Verano
+3,Prostrate Speedwell,Merlot,2477.74,1844.41,728,Verano
+4,Annual Mercury,Malbec,1106.46,1985.44,644,Primavera
+5,Silky Kangaroo Grass,Pinot Noir,1698.71,748.61,564,Primavera
+6,Script Lichen,Merlot,505.19,1110.27,928,Invierno
+7,Mountain Carpet Clover,Sangiovese,1340.94,1805.57,309,Verano
+8,Drummond's Anemone,Malbec,724.79,852.35,596,Verano
+9,Myrobalan,Sangiovese,2644.28,2319.21,417,Primavera
+10,Oriental Sweetgum,Cabernet Sauvignon,1775.35,4320.81,138,Otoño
+11,Purple Gaymallow,Malbec,2826.25,4627.3,839,Invierno
+12,Hoffmann's Buckwheat,Malbec,1221.66,1620.79,792,Invierno
+13,Pyrethrum,Cabernet Sauvignon,718.47,1970.67,193,Verano
+14,Toothleaf Taxiphyllum Moss,Cabernet Sauvignon,802.18,2962.98,872,Verano
+15,Disc Lichen,Pinot Noir,1823.24,4565.28,652,Primavera
+16,Marsh Mermaidweed,Pinot Noir,1096.77,5659.35,818,Invierno
+17,Link's Blackberry,Sangiovese,2994.67,2398.35,296,Primavera
+18,Puerto Rico Silver Palm,Cabernet Sauvignon,232.26,1738.81,502,Invierno
+19,Speerschneidera Lichen,Sangiovese,2029.41,4829.1,231,Primavera
+20,Nioi,Merlot,1386.15,3749.39,134,Invierno
+21,Urn Lichen,Merlot,698.99,3409.41,715,Primavera
+22,Florida Yew,Pinot Noir,173.43,5590.34,921,Verano
+23,African Rosemallow,Sangiovese,2618.52,4275.78,546,Primavera
+24,Glomerate Sedge,Sangiovese,989.57,4294.98,194,Invierno
+25,Island Glorybush,Malbec,2546.98,1514.2,831,Otoño
+26,Pinelands Snoutbean,Cabernet Sauvignon,1277.1,1609.69,161,Invierno
+27,Sheathed Wildparsley,Malbec,2407.22,4816.13,194,Primavera
+28,Slash Pine,Cabernet Sauvignon,693.8,2753.38,330,Invierno
+29,Polyscias,Merlot,2623.07,4421.75,407,Primavera
+30,Bulrush,Merlot,1152.45,2632.6,992,Verano
+31,Obtuseleaf Schistidium Moss,Malbec,1510.43,4872.14,609,Otoño
+32,Chilean Firebush,Cabernet Sauvignon,1246.66,1492.61,492,Primavera
+33,Whiskbroom Parsley,Pinot Noir,2322.49,4592.65,578,Primavera
+34,Chestnut Milkvetch,Cabernet Sauvignon,2936.29,3166.46,672,Otoño
+35,Eastern Bottlebrush Grass,Pinot Noir,1352.15,4782.34,283,Otoño
+36,Fourpetal St. Johnswort,Cabernet Sauvignon,102.19,1611.39,743,Primavera
+37,Mexican Tansyaster,Merlot,933.49,694.7,179,Otoño
+38,Hinahina,Merlot,2967.87,486.78,198,Invierno
+39,Leucolepis Umbrella Moss,Pinot Noir,1059.27,443.31,406,Verano
+40,Glandular Clover,Sangiovese,1618.99,1810.93,154,Verano
+41,Zarzabacoa De Dos Hojas,Cabernet Sauvignon,2614.25,4324.62,401,Verano
+42,Oreganillo Falso,Sangiovese,1226.4,3577.46,553,Invierno
+43,Parry's Dwarf-sunflower,Malbec,2384.13,1110.1,506,Invierno
+44,Dane's Dwarf Gentian,Malbec,2445.86,4585.7,36,Invierno
+45,Jacana,Merlot,1951.66,3376.12,95,Verano
+46,Pohlia Moss,Malbec,1788.95,5400.56,997,Verano
+47,Rose Bladderpod,Pinot Noir,138.74,847.17,767,Primavera
+48,Pore Lichen,Merlot,2048.98,1291.66,899,Verano
+49,Coral Ipomopsis,Malbec,2616.74,1315.18,223,Otoño
+50,Tall Pinebarren Milkwort,Pinot Noir,1173.34,3015.39,546,Invierno
+51,Rio Grande Gilia,Sangiovese,1173.37,177.6,421,Otoño
+52,Silver Wattle,Malbec,2993.14,1891.95,131,Primavera
+53,Porterweed,Pinot Noir,2052.92,5201.07,435,Otoño
+54,Wrinkleleaf Goldenrod,Malbec,193.36,3106.84,694,Verano
+55,Tailcup Lupine,Pinot Noir,2068.17,1455.75,330,Otoño
+56,Icacina,Malbec,598.4,781.31,577,Otoño
+57,Kauai Clermontia,Merlot,81.74,1800.54,129,Invierno
+58,Bajada Lupine,Merlot,1850.18,2647.04,269,Otoño
+59,Nesoluma,Cabernet Sauvignon,2405.83,4910.89,139,Primavera
+60,Grassland Tarweed,Malbec,189.75,2004.0,514,Invierno
+61,Paiute Beardtongue,Malbec,2777.41,3157.44,117,Verano
+62,Longtip Lacebark,Pinot Noir,797.93,799.07,879,Verano
+63,Anderson's Weissia Moss,Cabernet Sauvignon,159.04,1232.94,310,Verano
+64,Woolly Woodvine,Malbec,2681.09,4721.67,570,Invierno
+65,Idaho Kittentails,Sangiovese,2640.25,4767.45,705,Otoño
+66,Dwarf Live Oak,Sangiovese,989.81,2031.85,578,Otoño
+67,Wild Indigo,Malbec,2670.92,4071.34,584,Otoño
+68,Red Sierra Onion,Pinot Noir,1290.69,928.16,664,Invierno
+69,Lastarriaea,Merlot,2882.33,827.71,280,Invierno
+70,Sunflower,Malbec,1910.66,3500.95,922,Otoño
+71,Dwarf Cupflower,Pinot Noir,853.85,1164.37,908,Verano
+72,Grimmia Dry Rock Moss,Cabernet Sauvignon,2548.86,5295.1,634,Otoño
+73,Virginia Bryohaplocladium Moss,Cabernet Sauvignon,1428.36,2624.14,220,Invierno
+74,Spinach,Cabernet Sauvignon,418.26,1275.45,639,Otoño
+75,Eggleaf Lacefern,Pinot Noir,2311.97,1746.16,33,Otoño
+76,Ever-flowering Gladiolus,Pinot Noir,1460.22,3568.1,504,Otoño
+77,Cutleaf Burnweed,Malbec,2187.49,1078.4,154,Primavera
+78,Boston Ivy,Sangiovese,2219.92,653.34,205,Otoño
+79,Drummond's Sleepydaisy,Sangiovese,136.5,2311.64,591,Otoño
+80,Bicolor Fanmustard,Malbec,2439.04,4224.44,252,Otoño
+81,Blue Funnel Lily,Merlot,112.32,2589.36,45,Verano
+82,Hairy Greenthread,Malbec,1658.94,1184.59,555,Verano
+83,Shiny Goldenrod,Malbec,2153.77,4838.59,943,Otoño
+84,Longflower Tube Tongue,Malbec,1807.77,2905.42,728,Invierno
+85,Jelly Lichen,Sangiovese,137.17,2835.77,496,Verano
+86,Foxtail Sedge,Merlot,2685.06,5435.48,904,Verano
+87,Wheat,Merlot,1753.09,2118.67,405,Invierno
+88,Harsh Indian Paintbrush,Merlot,645.2,462.17,851,Verano
+89,Wright's Beardtongue,Merlot,2237.38,5525.51,788,Primavera
+90,Lava Clermontia,Sangiovese,2969.17,250.8,233,Otoño
+91,Spiked Bur Grass,Sangiovese,2018.18,5508.86,136,Invierno
+92,Goosefoot Violet,Sangiovese,201.67,5690.22,538,Otoño
+93,Reflexed Gyroweisia Moss,Merlot,879.06,3453.92,131,Primavera
+94,Shrubby Fuchsia,Cabernet Sauvignon,1717.94,945.67,367,Otoño
+95,Urban's Lineleaf Fern,Merlot,737.96,4235.23,342,Otoño
+96,Saltbush,Pinot Noir,2776.99,893.01,505,Otoño
+97,Juniper Globemallow,Cabernet Sauvignon,2304.38,1542.71,642,Invierno
+98,Bridalveil,Sangiovese,1502.78,4769.81,686,Invierno
+99,Treetrunk Spleenwort,Cabernet Sauvignon,1578.52,2961.98,265,Invierno
+100,Neststraw,Cabernet Sauvignon,749.59,4254.12,967,Verano
+101,Synalissa Lichen,Sangiovese,1041.98,1928.19,377,Primavera
+102,Mexican Scaly Cloakfern,Sangiovese,852.04,3857.93,362,Verano
+103,Rim Lichen,Pinot Noir,558.48,5296.4,273,Verano
+104,Berg's Hedgenettle,Sangiovese,2263.52,4221.26,647,Otoño
+105,Red Monkswort,Malbec,833.78,2835.63,454,Primavera
+106,Hidden Buckwheat,Malbec,1462.06,3160.33,85,Otoño
+107,Oblongleaf Bluebells,Merlot,2795.04,1964.48,941,Verano
+108,Mojave Pricklypoppy,Pinot Noir,2641.33,599.98,342,Verano
+109,Canna Lily,Malbec,2129.72,3369.33,788,Primavera
+110,Southern Mexican Sage,Malbec,863.11,5156.49,288,Verano
+111,Lemon Beebalm,Sangiovese,679.95,842.23,553,Verano
+112,Machaeranthera,Cabernet Sauvignon,519.8,5514.77,563,Otoño
+113,Desertpeony,Sangiovese,1046.57,1238.64,88,Primavera
+114,Buckwheat,Sangiovese,1740.94,5518.23,66,Primavera
+115,Flowering Dogwood,Pinot Noir,2028.43,1566.9,105,Verano
+116,Pacific Dewberry,Cabernet Sauvignon,981.63,3615.9,758,Otoño
+117,Dwarf Hesperochiron,Malbec,182.75,298.47,67,Verano
+118,Spearmint,Merlot,2751.83,5652.51,834,Invierno
+119,Golden Crownbeard,Malbec,2664.89,1256.71,139,Invierno
+120,Insideout Flower,Cabernet Sauvignon,86.62,5150.29,32,Invierno
+121,Echites,Pinot Noir,770.48,4533.48,420,Invierno
+122,Banisteriopsis,Merlot,2206.04,4880.13,620,Verano
+123,Rough Hawkweed,Pinot Noir,2735.67,5305.07,946,Primavera
+124,Mountain Sandalwood,Cabernet Sauvignon,167.64,2593.88,999,Invierno
+125,Dakota Gentian,Cabernet Sauvignon,249.34,3602.65,103,Invierno
+126,Schofield's Ctenidium Moss,Malbec,2958.98,1731.97,828,Invierno
+127,California Pleuridium Moss,Sangiovese,1603.67,2048.43,368,Verano
+128,Pine Violet,Merlot,2698.84,278.54,500,Verano
+129,Mexican Plantain,Sangiovese,2330.04,1421.28,755,Otoño
+130,Greenheart Ebony,Pinot Noir,1861.23,2847.24,124,Otoño
+131,Wormleaf Stonecrop,Malbec,861.25,2328.52,495,Primavera
+132,Wedgeleaf Horkelia,Pinot Noir,2139.75,4209.38,578,Invierno
+133,Spoonleaf,Cabernet Sauvignon,1081.02,3809.64,35,Primavera
+134,Avocado,Merlot,2881.6,5676.04,246,Invierno
+135,Southern Waxy Sedge,Merlot,2338.37,2580.63,274,Invierno
+136,Washington Fescue,Pinot Noir,1709.61,5197.74,428,Invierno
+137,San Andres Mountain Foxtail Cactus,Merlot,215.89,4826.19,109,Otoño
+138,Widow's Milkvetch,Cabernet Sauvignon,2755.4,1725.59,556,Otoño
+139,Richarson's Meadow-rue,Malbec,1909.1,5038.31,199,Invierno
+140,Alpine Yellow Fleabane,Pinot Noir,2269.4,4764.76,991,Otoño
+141,Rush,Pinot Noir,586.65,709.75,13,Primavera
+142,Sessile Bladderpod,Sangiovese,2512.2,4296.05,951,Verano
+143,Mt. Cerrote Angleflower,Malbec,2804.94,5327.47,918,Verano
+144,Pale Wallowa Indian Paintbrush,Merlot,2279.99,1301.19,884,Invierno
+145,Narrowleaf Lupine,Merlot,2369.42,4641.18,366,Primavera
+146,Java Aerva,Cabernet Sauvignon,1711.69,851.6,707,Primavera
+147,King Desertparsley,Merlot,2607.54,3937.12,745,Invierno
+148,Sphagnum,Cabernet Sauvignon,2447.65,204.91,721,Otoño
+149,Munro's Cyanea,Merlot,2817.6,3070.46,784,Primavera
+150,Yerba Maricao De Cueva,Pinot Noir,1956.36,5078.34,487,Invierno
+151,Sierra Pea,Pinot Noir,586.39,4791.6,845,Invierno
+152,Sweetscented Phacelia,Sangiovese,1838.89,1335.43,631,Verano
+153,Rocky Mountain Hemlockparsley,Malbec,1059.19,3260.58,344,Otoño
+154,Goosefoot Violet,Pinot Noir,959.64,1829.5,352,Invierno
+155,Blushing Wild Buckwheat,Pinot Noir,2215.02,600.95,691,Invierno
+156,Malabar Nut,Sangiovese,1920.03,873.44,241,Invierno
+157,Clammy Groundcherry,Malbec,2725.03,1772.82,78,Otoño
+158,Yellow Anisetree,Cabernet Sauvignon,2923.58,4505.16,389,Verano
+159,Subalpine Gumweed,Pinot Noir,1572.85,4850.51,123,Verano
+160,Tucson Mountain Spiderling,Merlot,1791.81,5683.56,909,Otoño
+161,Leafybract Dwarf Rush,Malbec,981.03,1139.67,226,Otoño
+162,Purpleglume Flatsedge,Sangiovese,2330.16,4448.9,5,Invierno
+163,Pineland Snakeherb,Cabernet Sauvignon,1258.91,3450.72,182,Otoño
+164,Slender False Dragonhead,Cabernet Sauvignon,2457.89,5180.52,7,Invierno
+165,Lindley's Silverpuffs,Pinot Noir,1045.7,1930.5,526,Otoño
+166,Chisos Mountain Pricklypear,Pinot Noir,1898.29,4538.86,561,Otoño
+167,Hoary Tansyaster,Merlot,2671.9,5209.03,369,Otoño
+168,Waianae Range Starviolet,Pinot Noir,1452.62,4598.5,83,Verano
+169,Narrow-leaf Bottlebrush,Cabernet Sauvignon,2241.91,4643.13,496,Primavera
+170,Mt. Lassen Draba,Merlot,2089.12,2924.85,28,Otoño
+171,Tropical Fanleaf,Malbec,965.39,3937.21,425,Otoño
+172,Pale Agoseris,Malbec,2624.93,1305.08,874,Primavera
+173,Texas Venus' Looking-glass,Merlot,332.58,3022.47,219,Verano
+174,Sweetgale,Malbec,917.8,1529.03,792,Otoño
+175,Brazilian Pricklypear,Sangiovese,874.48,3815.82,441,Otoño
+176,Bladder-senna,Malbec,1486.46,4215.73,27,Verano
+177,Manac,Sangiovese,1817.24,2972.64,612,Otoño
+178,Virola,Malbec,1356.58,3805.61,608,Otoño
+179,Islandfern,Merlot,621.58,393.75,427,Invierno
+180,Swamp Colicwood,Sangiovese,653.92,3747.16,800,Otoño
+181,Creutzfeldt's Cryptantha,Sangiovese,433.24,5332.15,368,Verano
+182,Paper Nailwort,Merlot,1300.49,4513.2,457,Verano
+183,Fragile Rockbrake,Pinot Noir,1936.54,1684.33,696,Primavera
+184,Tree Marigold,Malbec,677.54,4096.35,817,Invierno
+185,Brickellbush,Pinot Noir,751.66,1725.24,934,Otoño
+186,Spreading Amaranth,Malbec,1655.57,2799.15,106,Invierno
+187,Brugmansia,Malbec,1899.8,1286.35,461,Otoño
+188,Pansch's Racomitrium Moss,Cabernet Sauvignon,1539.69,3281.63,398,Invierno
+189,Quillwort,Sangiovese,221.96,2670.11,284,Verano
+190,Indian Crabgrass,Cabernet Sauvignon,1856.13,1662.99,976,Verano
+191,Parry's Blanketflower,Merlot,2381.86,5539.21,10,Otoño
+192,Chiranthodendron,Pinot Noir,2101.8,2543.42,717,Verano
+193,Adorned Hawthorn,Merlot,490.06,3221.5,757,Primavera
+194,Bistort Cartilage Lichen,Pinot Noir,410.9,1944.58,355,Otoño
+195,Bluedevil,Malbec,697.78,3050.52,862,Otoño
+196,San Andres Mountain Foxtail Cactus,Cabernet Sauvignon,2398.07,5267.2,46,Primavera
+197,Kauai Jackbean,Merlot,527.7,450.68,963,Invierno
+198,Psorula Lichen,Sangiovese,553.61,1415.9,477,Primavera
+199,Sharpleaf Buttercup,Sangiovese,2623.19,653.76,311,Invierno
+200,Colorado Four O'clock,Pinot Noir,1914.48,4918.02,866,Primavera
+201,Robbins' Pondweed,Sangiovese,1200.81,1176.67,504,Otoño
+202,Birdbill Dayflower,Sangiovese,688.93,1042.88,543,Verano
+203,Myrrh,Cabernet Sauvignon,1158.43,1773.45,981,Otoño
+204,Lesser Rushy Milkvetch,Malbec,1767.9,422.72,740,Otoño
+205,Bryum Moss,Pinot Noir,930.53,5051.11,315,Verano
+206,Gollania Moss,Sangiovese,2929.66,5156.66,244,Primavera
+207,Bran Lichen,Malbec,1993.27,2139.81,594,Invierno
+208,Mudmats,Malbec,683.29,3673.7,577,Otoño
+209,Twincrest Onion,Malbec,2043.27,2555.26,800,Invierno
+210,Javanese Long Pepper,Cabernet Sauvignon,2387.01,2679.36,531,Primavera
+211,Charleston Peak Mousetail,Merlot,890.39,3630.95,97,Invierno
+212,Merismatium Lichen,Sangiovese,2152.34,3727.32,356,Verano
+213,Yellow Wildrye,Malbec,2475.06,1851.18,490,Otoño
+214,Santa Rita Mountain Draba,Sangiovese,1087.09,373.21,538,Primavera
+215,Sand Pink,Pinot Noir,2367.41,4772.59,465,Verano
+216,Bristlyleaf Rockcress,Merlot,814.24,1972.68,754,Invierno
+217,Murphey's Century Plant,Merlot,1619.85,5412.83,345,Primavera
+218,Plains Ironweed,Pinot Noir,1738.24,5005.27,956,Primavera
+219,Stemless Four-nerve Daisy,Merlot,1527.88,4410.9,349,Invierno
+220,Bush's Blackberry,Malbec,2737.62,1234.08,750,Otoño
+221,Wildcane,Malbec,1316.45,2124.9,746,Verano
+222,Oxeye Daisy,Merlot,2994.62,358.8,149,Primavera
+223,Mosquito Bulrush,Sangiovese,1774.92,1827.41,327,Invierno
+224,Silkreed,Cabernet Sauvignon,1454.99,384.87,448,Primavera
+225,Vredenberg Ice Plant,Sangiovese,2845.33,382.97,28,Verano
+226,Dendropanax,Cabernet Sauvignon,2815.04,4762.23,588,Verano
+227,Q-tips,Pinot Noir,211.1,3685.98,466,Verano
+228,Woolly Rosette Grass,Malbec,2800.95,5575.23,65,Invierno
+229,Shrubby Primrose-willow,Pinot Noir,2713.58,3496.93,356,Verano
+230,Santa Catalina Mountain Centaury,Cabernet Sauvignon,1377.47,428.8,43,Primavera
+231,Climbing False Buckwheat,Malbec,2185.54,910.63,486,Primavera
+232,Tansy Pepperweed,Malbec,2728.33,5605.04,353,Primavera
+233,Melonleaf Nightshade,Sangiovese,1858.71,5226.77,789,Invierno
+234,Pore Lichen,Cabernet Sauvignon,2623.27,5094.32,128,Verano
+235,Hybrid Oak,Malbec,1856.95,2505.21,707,Otoño
+236,Chase's Threeawn,Cabernet Sauvignon,1522.96,3970.13,125,Verano
+237,Chapman's Yelloweyed Grass,Sangiovese,583.04,885.94,84,Otoño
+238,Lecidea Lichen,Malbec,886.05,3225.61,971,Invierno
+239,Dewey Sedge,Sangiovese,981.16,4937.14,694,Otoño
+240,Gooseneck Yellow Loosestrife,Merlot,342.21,1731.57,371,Otoño
+241,Texasgrass,Sangiovese,2136.59,5182.73,387,Verano
+242,Pereskia,Cabernet Sauvignon,567.56,1500.01,280,Verano
+243,Cupped Passionflower,Malbec,302.46,5691.19,539,Verano
+244,Buglossoides,Malbec,1976.31,3057.3,507,Verano
+245,Bountiful Hawthorn,Sangiovese,509.07,2934.19,263,Primavera
+246,Lecania Lichen,Malbec,1916.2,2659.46,43,Invierno
+247,Fringed Rockdaisy,Sangiovese,2893.92,550.96,781,Primavera
+248,Sunset Lupine,Cabernet Sauvignon,379.89,4438.7,940,Otoño
+249,Curlyhead Goldenweed,Cabernet Sauvignon,2272.24,4399.12,592,Otoño
+250,Apiastrum,Malbec,736.24,2119.56,896,Otoño
+251,Orange Honeysuckle,Sangiovese,1120.74,807.85,876,Otoño
+252,Shortstem Lupine,Malbec,1500.85,3611.93,943,Otoño
+253,Chapman's Rhododendron,Merlot,838.0,3769.36,568,Verano
+254,Harper's Yelloweyed Grass,Merlot,1802.64,4439.88,769,Verano
+255,Jerusalem Cherry,Merlot,1914.21,5285.66,105,Invierno
+256,Pygmy Linanthus,Merlot,1238.88,3869.94,753,Invierno
+257,Fanpetals,Merlot,1745.24,5499.47,492,Otoño
+258,Dotted Lichen,Malbec,2216.83,3242.84,594,Primavera
+259,Wood Wakerobin,Malbec,716.96,4237.82,514,Invierno
+260,Boreal Bog Sedge,Sangiovese,2665.75,4668.86,435,Verano
+261,Sheathed Alkaligrass,Cabernet Sauvignon,575.3,307.22,635,Verano
+262,Matroot Penstemon,Malbec,151.18,5487.09,654,Primavera
+263,Arizona Grapplinghook,Pinot Noir,1810.8,1165.53,495,Otoño
+264,Virgilia,Sangiovese,1255.17,1853.98,262,Otoño
+265,Q-tips,Pinot Noir,1341.07,240.79,990,Otoño
+266,Zapote De Costa,Malbec,475.43,4245.57,57,Primavera
+267,Longleaf Buckwheat,Cabernet Sauvignon,2387.66,2861.64,23,Otoño
+268,Dwarf Mountain Lupine,Malbec,1258.48,2313.63,975,Verano
+269,Dwarf Alpinegold,Pinot Noir,1626.34,2238.94,569,Invierno
+270,Jamaican Weissia Moss,Cabernet Sauvignon,2413.85,260.96,47,Verano
+271,Supine Bluegrass,Malbec,2410.11,5390.44,48,Verano
+272,Hairy Evening Primrose,Malbec,1276.7,2592.57,249,Otoño
+273,Mountain Hemlock,Cabernet Sauvignon,2545.44,4233.22,878,Invierno
+274,Calla Lily,Cabernet Sauvignon,2984.73,5368.64,261,Primavera
+275,Mamoncillo,Merlot,1248.15,391.36,500,Otoño
+276,Pennsylvania Beard Lichen,Malbec,1230.88,2389.92,851,Otoño
+277,Sea Kale,Malbec,1576.9,2269.51,175,Verano
+278,Spleenwort Maiden Fern,Pinot Noir,2629.53,524.65,528,Primavera
+279,Rough Potato,Cabernet Sauvignon,563.14,4363.31,191,Invierno
+280,Caribbean Milkwort,Pinot Noir,1163.35,4199.22,78,Verano
+281,Whitebract Blazingstar,Merlot,1841.48,3128.77,335,Invierno
+282,Cymodocea,Pinot Noir,1996.67,5131.26,376,Otoño
+283,Nodding Locoweed,Merlot,1330.05,2973.19,143,Verano
+284,Seminole False Foxglove,Pinot Noir,1878.19,4540.96,720,Otoño
+285,Bird-of-paradise -tree,Sangiovese,1961.02,2521.88,983,Invierno
+286,Beechleaf Frangula,Cabernet Sauvignon,2586.03,425.73,480,Primavera
+287,Tephromela Lichen,Malbec,657.86,1496.21,693,Primavera
+288,Tennessee Starwort,Cabernet Sauvignon,2330.59,4163.46,128,Primavera
+289,Pygmymelon,Sangiovese,1885.52,228.92,704,Invierno
+290,Teal Lovegrass,Malbec,620.65,1677.44,659,Invierno
+291,Trans-pecos Cliffbrake,Sangiovese,1796.94,5057.4,139,Invierno
+292,Glory Wattle,Sangiovese,616.03,2073.79,147,Invierno
+293,Sprenger's Asparagus Fern,Cabernet Sauvignon,1605.85,5502.66,909,Primavera
+294,Sparse-flowered Bog Orchid,Pinot Noir,2616.78,2991.87,221,Invierno
+295,Tropical Sensitive Pea,Cabernet Sauvignon,650.06,3817.59,235,Invierno
+296,Bridges' Cliffbrake,Merlot,1489.94,2265.65,601,Otoño
+297,Acacia Fringedfern,Cabernet Sauvignon,1554.39,3198.72,408,Primavera
+298,Nuttall's Horsebrush,Pinot Noir,303.94,155.79,58,Primavera
+299,Crossflower,Merlot,2538.15,5322.68,367,Verano
+300,Tiehm's Beardtongue,Cabernet Sauvignon,2120.66,781.38,761,Verano
+301,Pygmy Clover,Sangiovese,687.32,2171.53,937,Primavera
+302,Western Tansymustard,Merlot,340.12,4490.43,812,Otoño
+303,Pineland Yelloweyed Grass,Sangiovese,2008.19,1793.32,981,Primavera
+304,Rothrock's Crownbeard,Cabernet Sauvignon,2304.94,2156.52,790,Invierno
+305,Wright's Indian Mallow,Cabernet Sauvignon,1120.08,1543.6,626,Invierno
+306,Tarweed,Merlot,2916.61,3745.33,29,Otoño
+307,Small Beggarticks,Malbec,2165.05,4127.59,129,Verano
+308,Kaibab Sedge,Sangiovese,719.42,3616.04,1000,Invierno
+309,Escorzonera,Cabernet Sauvignon,2552.67,1846.34,418,Invierno
+310,Hedgehog Pricklypoppy,Merlot,1301.1,5695.02,792,Otoño
+311,Kolekole Cyanea,Pinot Noir,934.56,4958.64,964,Otoño
+312,Wilkes' Acalypha,Malbec,1475.73,272.39,486,Invierno
+313,Park Willow,Sangiovese,1532.22,623.93,673,Verano
+314,Southern Flax,Cabernet Sauvignon,1479.11,4994.69,814,Primavera
+315,Usnea Phaeosporobolus,Merlot,2278.23,2025.29,492,Otoño
+316,Rough Stoneseed,Merlot,304.84,3439.62,54,Invierno
+317,Dill Daisy,Pinot Noir,713.16,4727.73,811,Invierno
+318,Porsild's False Candytuft,Merlot,1508.01,2246.73,85,Verano
+319,Zarzabacoa De Monte,Merlot,2288.44,454.3,984,Otoño
+320,Coulter Pine,Cabernet Sauvignon,2420.49,2080.64,375,Otoño
+321,Vahl's Alkaligrass,Sangiovese,1615.36,5367.91,770,Otoño
+322,Spotted Phacelia,Pinot Noir,232.41,3033.93,125,Verano
+323,Purpleleaf Willowherb,Pinot Noir,1786.9,3398.18,182,Verano
+324,False Indigo,Cabernet Sauvignon,355.39,3353.57,398,Primavera
+325,Red Sierra Onion,Merlot,2532.85,363.25,433,Invierno
+326,Christmas Fern,Sangiovese,1749.37,4557.75,271,Invierno
+327,Kombe Arrow Poison,Merlot,1749.09,1313.54,760,Primavera
+328,Stenocybe Lichen,Sangiovese,2942.08,4094.17,896,Invierno
+329,Leafy Lespedeza,Pinot Noir,1654.41,1836.48,719,Primavera
+330,Florida Eccremidium Moss,Pinot Noir,273.06,3288.51,436,Primavera
+331,Fryingpans,Pinot Noir,1612.63,3762.17,27,Invierno
+332,Siberian Kale,Sangiovese,1051.97,5165.63,518,Otoño
+333,Green And Gold,Sangiovese,708.46,2712.81,621,Primavera
+334,Parish's Glasswort,Cabernet Sauvignon,1311.0,2631.74,946,Otoño
+335,Texas Star,Pinot Noir,215.36,4653.06,165,Invierno
+336,Summer Grape,Merlot,1748.36,1626.71,244,Verano
+337,False Buttonweed,Pinot Noir,1881.55,1262.02,372,Invierno
+338,Mountain Pepperweed,Pinot Noir,2374.77,5673.53,219,Invierno
+339,Fleabane,Cabernet Sauvignon,2737.1,1674.88,116,Invierno
+340,Woodland Pinkroot,Pinot Noir,912.27,4770.13,9,Verano
+341,Small Carpetgrass,Pinot Noir,2731.7,3856.14,199,Verano
+342,Blue Mudplantain,Pinot Noir,1368.87,2632.09,792,Otoño
+343,Silverscale Saltbush,Merlot,960.79,1787.27,768,Invierno
+344,Horseflesh Mahogany,Sangiovese,2221.58,3998.75,619,Otoño
+345,Finger Sprangletop,Pinot Noir,654.27,416.19,167,Verano
+346,Beechleaf Frangula,Merlot,2336.01,5139.57,185,Verano
+347,Canadian Lousewort,Pinot Noir,2550.19,669.25,874,Otoño
+348,Dill,Merlot,2080.8,3579.4,467,Primavera
+349,Mosquitograss,Sangiovese,1147.22,4254.78,928,Verano
+350,Propeller Flower,Cabernet Sauvignon,286.77,1662.72,349,Invierno
+351,Western Tansymustard,Malbec,1164.09,3336.01,827,Primavera
+352,Cliftonia,Malbec,1631.35,1818.1,635,Primavera
+353,Dwarf Alpine Hawksbeard,Sangiovese,2774.03,2203.76,746,Verano
+354,Clathroporina Lichen,Malbec,2549.81,708.25,195,Primavera
+355,Nihoa Pritchardia,Cabernet Sauvignon,165.64,1995.75,527,Invierno
+356,Papaya,Cabernet Sauvignon,1931.97,1780.36,423,Otoño
+357,Twinbugs,Sangiovese,944.64,5596.39,304,Verano
+358,Dwarf Ninebark,Pinot Noir,2860.6,4748.79,926,Invierno
+359,Peltula Lichen,Merlot,2089.57,3769.58,955,Verano
+360,Dot Lichen,Sangiovese,135.53,2420.4,202,Primavera
+361,Berlandier's Wolfberry,Cabernet Sauvignon,2243.85,3041.0,766,Primavera
+362,Rattlesnakemaster,Merlot,420.29,1645.03,97,Otoño
+363,Scratchthroat,Cabernet Sauvignon,261.81,1999.48,993,Verano
+364,Texas Bristleleaf,Pinot Noir,770.26,5309.18,32,Otoño
+365,Pacific Anemone,Merlot,1793.11,702.95,865,Otoño
+366,Branched Noseburn,Merlot,1875.06,3147.81,628,Primavera
+367,Mojave Toothleaf,Cabernet Sauvignon,1944.15,2250.0,507,Otoño
+368,Virginia Dwarfdandelion,Merlot,2166.09,1724.05,997,Primavera
+369,Texas Cottontop,Malbec,2841.47,2975.21,644,Verano
+370,Cooper's Milkvetch,Malbec,2465.5,4666.24,812,Primavera
+371,Hobblebush,Pinot Noir,1984.72,4485.38,968,Otoño
+372,Shrubby Willowherb,Merlot,2801.72,4998.5,977,Otoño
+373,Tolmie's Owl's-clover,Sangiovese,1944.12,3624.07,646,Primavera
+374,Piper's Sedge,Sangiovese,869.21,1549.03,40,Verano
+375,Mojave Lupine,Cabernet Sauvignon,702.31,3737.31,210,Otoño
+376,Payson's Pepperweed,Merlot,105.67,2917.99,931,Primavera
+377,Rimmed Lichen,Merlot,2560.47,4276.91,593,Verano
+378,Japewia Lichen,Pinot Noir,1399.55,331.54,795,Primavera
+379,Bluepod Rockcress,Malbec,1496.8,1258.02,798,Verano
+380,Seely's Catchfly,Sangiovese,1889.44,3397.44,160,Otoño
+381,Meesia Moss,Sangiovese,2407.92,2304.69,416,Verano
+382,Lanai Sawsedge,Malbec,1582.59,3684.16,889,Invierno
+383,Broom Sedge,Malbec,484.52,4814.39,953,Verano
+384,Kanawao Ke'oke'o,Merlot,2288.07,5275.36,964,Invierno
+385,Flatsedge,Pinot Noir,521.13,983.24,863,Primavera
+386,Edrudia Lichen,Cabernet Sauvignon,2041.85,2025.11,121,Invierno
+387,Largeflower Fameflower,Cabernet Sauvignon,1148.7,3400.17,90,Otoño
+388,Sporopodium Lichen,Sangiovese,480.03,3362.39,824,Otoño
+389,Panguitch Buckwheat,Malbec,1893.18,732.56,378,Verano
+390,Hartz's Bluegrass,Sangiovese,1462.29,1644.09,29,Invierno
+391,Julella Lichen,Pinot Noir,2025.32,2645.86,851,Verano
+392,Yellow Necklacepod,Pinot Noir,867.37,3656.11,465,Otoño
+393,Whipple's Fishhook Cactus,Sangiovese,1728.54,1016.41,941,Primavera
+394,Downy Yellow Violet,Malbec,2628.54,4165.69,534,Verano
+395,Arizona Skeletonplant,Sangiovese,1017.95,2728.29,421,Invierno
+396,Desertbroom,Cabernet Sauvignon,1189.76,197.32,371,Invierno
+397,Caughuawaga Hawthorn,Merlot,2463.65,5177.91,645,Verano
+398,Broadleaf Tonguefern,Malbec,2824.1,1143.57,330,Otoño
+399,Red Elder,Sangiovese,1808.73,4690.05,984,Verano
+400,Branched Lagophylla,Merlot,2442.64,5672.86,587,Primavera
+401,Forked Threeawn,Pinot Noir,437.82,3241.35,211,Verano
+402,Reclined Gumweed,Malbec,1379.63,1461.42,450,Otoño
+403,Mexican Orange,Pinot Noir,2964.06,2694.38,145,Otoño
+404,Dwarf Checkerbloom,Pinot Noir,2588.04,261.81,567,Primavera
+405,Mountain Neststraw,Sangiovese,1602.7,568.17,123,Primavera
+406,Melaspilea Lichen,Sangiovese,770.97,4943.54,359,Invierno
+407,American Beachgrass,Sangiovese,1934.64,4405.73,4,Primavera
+408,Cobralily,Sangiovese,1384.21,645.32,66,Otoño
+409,Pitcherplant,Sangiovese,1140.2,2901.4,510,Primavera
+410,Slender Spikerush,Sangiovese,668.33,958.98,248,Verano
+411,American Spikenard,Malbec,1230.43,1652.56,56,Otoño
+412,Greeneyes,Pinot Noir,1746.16,3943.38,446,Verano
+413,Cuming's Lovegrass,Sangiovese,2613.51,4427.67,440,Verano
+414,Tundra Milkvetch,Cabernet Sauvignon,1513.23,1648.94,650,Otoño
+415,Pine Dropseed,Merlot,323.62,3348.7,962,Otoño
+416,Howell's Jewelflower,Merlot,1841.42,4639.03,685,Primavera
+417,Ceanothus,Merlot,508.17,1320.48,189,Otoño
+418,Rhode Island Dewberry,Sangiovese,841.06,1700.82,387,Primavera
+419,Browneyes,Sangiovese,1911.53,4442.95,552,Primavera
+420,Megalospora Lichen,Sangiovese,2564.55,205.99,661,Invierno
+421,Chickasaw Plum,Merlot,121.3,4816.66,311,Primavera
+422,Eastern Swamp Saxifrage,Malbec,805.28,3696.71,289,Invierno
+423,Swamp Milkweed,Merlot,1877.01,2003.94,839,Primavera
+424,Pencilmark Lichen,Cabernet Sauvignon,778.94,153.86,444,Primavera
+425,Red Rock Tarweed,Sangiovese,2362.2,2361.2,848,Primavera
+426,Pincushions,Merlot,1127.17,3142.89,409,Invierno
+427,Fontinalis Moss,Merlot,1547.56,2059.12,144,Primavera
+428,Nodding Needlegrass,Merlot,719.92,4433.8,886,Primavera
+429,Inga,Cabernet Sauvignon,622.88,5647.95,130,Otoño
+430,Tropical Brackenfern,Cabernet Sauvignon,2336.11,904.92,490,Invierno
+431,Stalkgrass,Malbec,425.1,1444.68,130,Verano
+432,Waterfall's Milkvetch,Sangiovese,643.27,3066.51,343,Primavera
+433,Interior Live Oak,Merlot,992.85,1224.67,218,Invierno
+434,Rabbit Ear Rockcress,Cabernet Sauvignon,2866.81,3421.26,818,Invierno
+435,Baker's Goldfields,Pinot Noir,1661.92,736.24,682,Verano
+436,Frosted Orache,Sangiovese,2389.46,4184.01,967,Primavera
+437,Deadly Nightshade,Pinot Noir,467.19,2456.3,142,Otoño
+438,Common Sneezeweed,Sangiovese,918.51,1240.05,837,Verano
+439,Carolina Leaf-flower,Merlot,2601.0,2993.38,968,Verano
+440,Hookedspur Violet,Merlot,1459.49,1367.47,74,Invierno
+441,Coastal Miterwort,Malbec,322.76,1087.99,332,Primavera
+442,Gypsum Phacelia,Sangiovese,2306.03,1757.97,824,Invierno
+443,Pillwort,Malbec,1553.38,304.01,862,Invierno
+444,Chisos Mountain False Calico,Pinot Noir,567.9,1246.59,918,Otoño
+445,Parish's Checker,Sangiovese,2467.84,2836.56,207,Otoño
+446,Lisbon False Sun-rose,Malbec,1826.48,5600.05,615,Otoño
+447,Hybrid Willow,Pinot Noir,293.51,5492.38,836,Primavera
+448,Philonotis Moss,Malbec,2762.11,5436.86,343,Invierno
+449,Crabseye Lichen,Pinot Noir,1855.36,5424.24,740,Otoño
+450,Babington's Graphina Lichen,Malbec,2260.25,2854.01,660,Otoño
+451,San Luis Mountain Giant Hyssop,Cabernet Sauvignon,2396.89,1008.07,94,Primavera
+452,Woolly Cinquefoil,Cabernet Sauvignon,88.83,5263.01,632,Invierno
+453,Annual Canarygrass,Pinot Noir,667.45,3269.23,349,Invierno
+454,Chamisso Arnica,Merlot,576.66,3776.06,156,Otoño
+455,Red Triangles,Pinot Noir,807.68,4912.65,470,Primavera
+456,Lemmon's Alkaligrass,Sangiovese,2444.24,642.29,910,Verano
+457,Spreading Leastdaisy,Sangiovese,373.24,2096.18,625,Otoño
+458,Groundsmoke,Pinot Noir,152.22,5256.06,885,Verano
+459,Hollowstem Burnet Saxifrage,Pinot Noir,94.92,5191.67,333,Invierno
+460,Xanthoparmelia Lichen,Malbec,2467.44,2309.47,41,Primavera
+461,Alfalfa,Cabernet Sauvignon,544.54,1751.17,942,Otoño
+462,Mottled Spurge,Malbec,1819.36,4361.98,793,Otoño
+463,Ravenel's Wart Lichen,Malbec,2099.99,3908.28,458,Verano
+464,Crenulate Rhabdoweisia Moss,Malbec,2430.71,2069.0,877,Otoño
+465,Xanthoparmelia Lichen,Cabernet Sauvignon,365.56,1331.67,463,Primavera
+466,Cuban Dropseed,Sangiovese,2269.69,4122.41,605,Invierno
+467,Llume,Sangiovese,1709.84,2975.44,556,Invierno
+468,Desert Mariposa Lily,Sangiovese,836.84,4514.8,805,Invierno
+469,Ertter's Ragwort,Merlot,1184.12,5448.9,347,Primavera
+470,Navajo Tea,Pinot Noir,344.51,1086.23,352,Invierno
+471,Marin Knotweed,Pinot Noir,992.14,1908.38,861,Verano
+472,Flatbud Pricklypoppy,Sangiovese,2322.46,3241.68,68,Primavera
+473,Entireleaf Mountain-avens,Merlot,804.36,2330.7,775,Invierno
+474,Whorled Marshpennywort,Sangiovese,271.79,1686.58,667,Invierno
+475,Water Chestnut,Malbec,1390.53,716.33,743,Primavera
+476,Front Range Milkvetch,Pinot Noir,684.22,5510.53,856,Primavera
+477,Starry Bedstraw,Cabernet Sauvignon,2859.11,5045.18,778,Otoño
+478,Platygyrium Moss,Sangiovese,1068.96,680.03,908,Otoño
+479,Whitestar,Sangiovese,2143.04,2389.08,273,Invierno
+480,Polytrichum Moss,Merlot,2576.46,3044.17,179,Primavera
+481,Rose's Ticktrefoil,Merlot,2796.98,4785.46,703,Otoño
+482,Georgia Frostweed,Pinot Noir,1293.27,2793.89,736,Otoño
+483,False Mayweed,Malbec,2415.7,793.23,363,Primavera
+484,Leafless Swallow-wort,Merlot,1455.57,1845.5,927,Verano
+485,Trumpet Gooseberry,Pinot Noir,109.95,1886.94,625,Verano
+486,Clustered Fanpetals,Merlot,82.63,2520.4,606,Primavera
+487,Dixie Iris,Cabernet Sauvignon,2257.34,1317.79,748,Verano
+488,Kaluaaha Valley Peperomia,Cabernet Sauvignon,1087.05,920.32,635,Invierno
+489,Bur Pincushionplant,Sangiovese,2300.07,699.96,332,Primavera
+490,Rhagadiolus,Sangiovese,1502.97,706.51,449,Verano
+491,Knapp Brickellbush,Sangiovese,2310.68,5401.15,907,Verano
+492,Pygmy Groundcherry,Merlot,790.16,928.38,229,Primavera
+493,Eastern Poison Ivy,Sangiovese,1222.2,3628.51,621,Otoño
+494,Ale,Merlot,454.59,5192.07,209,Otoño
+495,Schwetschkeopsis Moss,Pinot Noir,1255.63,1457.41,302,Invierno
+496,Clustertree,Sangiovese,2131.47,5050.51,206,Invierno
+497,Long's Bittercress,Sangiovese,1912.64,1890.88,437,Verano
+498,Ontario Goldenrod,Pinot Noir,866.34,513.02,531,Primavera
+499,Kidney Lichen,Sangiovese,282.33,4200.82,14,Primavera
+500,Dot Lichen,Malbec,399.17,3648.37,497,Primavera
+501,Roundleaf Gum,Cabernet Sauvignon,2342.32,2469.96,433,Verano
+502,Pendantgrass,Sangiovese,1335.5,2144.7,693,Verano
+503,Roth's Andreaea Moss,Merlot,2584.99,3577.49,263,Invierno
+504,Toothed Clubmoss,Cabernet Sauvignon,351.33,1492.07,722,Primavera
+505,Summer Holly,Pinot Noir,481.6,4348.15,181,Invierno
+506,Kauai Hau Kuahiwi,Merlot,921.22,2756.5,363,Otoño
+507,Tall Thimbleweed,Cabernet Sauvignon,1552.07,3707.5,331,Primavera
+508,Western Rough Goldenrod,Merlot,460.97,3885.32,742,Verano
+509,Deergrass,Cabernet Sauvignon,2643.8,4498.37,222,Primavera
+510,Pyp Grass,Cabernet Sauvignon,1278.42,1007.74,620,Verano
+511,Giant Snowdrop,Cabernet Sauvignon,1138.82,4431.55,561,Verano
+512,Mullein Nightshade,Pinot Noir,2400.56,1846.27,403,Primavera
+513,Ahart's Dwarf Rush,Merlot,1156.1,1659.99,366,Primavera
+514,Bigflower Pawpaw,Malbec,2377.54,4566.42,520,Primavera
+515,Old Wood Rimmed Lichen,Malbec,1053.58,4439.76,388,Otoño
+516,Hall's Shrubby-spurge,Pinot Noir,1880.63,5264.08,408,Invierno
+517,Drummond's Entosthodon Moss,Pinot Noir,1524.5,2445.67,423,Invierno
+518,Little White Bird's-foot,Pinot Noir,433.1,3460.6,243,Otoño
+519,Begonia,Sangiovese,2796.92,982.39,768,Verano
+520,Foothill Larkspur,Sangiovese,504.34,4045.45,484,Invierno
+521,Stinging Nettle,Merlot,730.93,4974.06,865,Otoño
+522,Parish's Indian Mallow,Cabernet Sauvignon,422.31,4606.5,245,Primavera
+523,Fuzzy Wuzzy Sedge,Merlot,516.35,5570.65,391,Invierno
+524,Onion Blanketflower,Merlot,2631.5,2086.06,538,Otoño
+525,Azulejo,Merlot,1009.62,4054.97,618,Verano
+526,Colutea,Sangiovese,2379.43,1991.94,186,Invierno
+527,Utah Fleabane,Cabernet Sauvignon,997.34,4186.19,665,Otoño
+528,Parry's Lousewort,Cabernet Sauvignon,351.5,5332.09,251,Otoño
+529,Mason's Ceanothus,Cabernet Sauvignon,2281.47,4784.56,398,Primavera
+530,Newcombe's Saxifrage,Pinot Noir,2594.89,776.57,176,Verano
+531,Sarita Rosette Grass,Merlot,2167.26,3998.45,236,Verano
+532,Coville's Indian Paintbrush,Merlot,1584.46,3405.39,107,Primavera
+533,Louisiana Broomrape,Malbec,1731.12,1642.56,552,Verano
+534,Pearl Millet,Malbec,2820.84,2936.55,650,Verano
+535,Ribbon Fern,Sangiovese,1970.0,2142.97,120,Primavera
+536,Tundra Fleabane,Sangiovese,2870.02,4920.91,442,Invierno
+537,Buxbaumia Moss,Pinot Noir,612.02,4380.04,511,Primavera
+538,Spleenwort,Malbec,1852.99,2601.79,147,Otoño
+539,Rush,Malbec,328.04,3830.88,236,Verano
+540,Colorado Xanthoparmelia Lichen,Cabernet Sauvignon,2194.29,3467.91,75,Primavera
+541,Jepson Ceanothus,Pinot Noir,221.14,2804.81,368,Primavera
+542,Suksdorfia,Sangiovese,928.36,4786.7,565,Verano
+543,Cordillia's Beardtongue,Malbec,2321.92,4704.81,199,Otoño
+544,Serviceberry,Malbec,1533.36,4050.09,153,Invierno
+545,Bill Williams Mountain Giant Hyssop,Cabernet Sauvignon,1494.54,4247.97,323,Invierno
+546,Sphagnum,Cabernet Sauvignon,2079.6,979.44,901,Otoño
+547,Skin Lichen,Sangiovese,1504.22,5513.37,227,Invierno
+548,Hybrid Alfalfa,Pinot Noir,1048.76,444.73,150,Otoño
+549,Texas Toadflax,Merlot,681.24,2111.94,837,Primavera
+550,Bluebowls,Pinot Noir,1925.6,1105.63,783,Invierno
+551,Dahurian Buckthorn,Merlot,2601.78,628.58,738,Primavera
+552,Lesser Butter And Eggs,Sangiovese,85.88,2525.54,646,Otoño
+553,Uhiuhi,Sangiovese,1492.63,4250.68,843,Verano
+554,Mann's Cyanea,Cabernet Sauvignon,2681.93,1925.22,838,Verano
+555,Gorgojo,Cabernet Sauvignon,2403.0,5097.21,908,Invierno
+556,Herbst's Sandmat,Merlot,673.34,5699.15,776,Invierno
+557,Hypnum Moss,Malbec,452.29,210.94,464,Invierno
+558,Pseudoleskea Moss,Merlot,530.28,334.56,177,Primavera
+559,Cydonia,Sangiovese,360.15,2246.45,464,Invierno
+560,Spreading Pellitory,Sangiovese,888.89,1011.89,88,Primavera
+561,Mound Saltbush,Sangiovese,1259.68,4637.87,44,Otoño
+562,California Goldfields,Merlot,980.54,391.58,698,Invierno
+563,Clausen's Violet,Sangiovese,1590.22,3138.38,288,Verano
+564,Calliergon Moss,Cabernet Sauvignon,2396.92,2693.43,950,Otoño
+565,Catclaw Blackbead,Cabernet Sauvignon,364.02,1789.23,141,Otoño
+566,Annual Wheatgrass,Pinot Noir,685.35,5011.17,485,Invierno
+567,Rinodina Lichen,Cabernet Sauvignon,1266.12,5642.61,20,Verano
+568,Figleaf Gourd,Malbec,1102.42,5258.73,816,Invierno
+569,Sacramento Orcutt Grass,Sangiovese,1251.65,493.89,800,Invierno
+570,Limestone Pappusgrass,Pinot Noir,2724.49,5530.7,484,Invierno
+571,Yosemite Bog Orchid,Cabernet Sauvignon,2811.98,4432.92,907,Invierno
+572,Flame Orchid,Cabernet Sauvignon,2747.36,372.13,317,Verano
+573,Rocky Mountain Juniper,Cabernet Sauvignon,280.31,5379.98,93,Primavera
+574,Foxtail Copperleaf,Cabernet Sauvignon,1951.22,1870.6,703,Verano
+575,Smooth Violet Prairie Aster,Malbec,2706.55,2567.73,103,Otoño
+576,Passionflower,Cabernet Sauvignon,1894.76,1434.54,782,Invierno
+577,Thicket Globemallow,Cabernet Sauvignon,109.13,5553.78,301,Otoño
+578,False Rhodes Grass,Sangiovese,2373.88,3437.1,68,Invierno
+579,Greenland Primrose,Cabernet Sauvignon,1615.0,5380.77,857,Verano
+580,Orange Lichen,Pinot Noir,2125.05,2293.45,945,Primavera
+581,Canadian Lousewort,Merlot,1132.46,2970.07,471,Primavera
+582,Yellowhood,Pinot Noir,473.4,5177.71,232,Verano
+583,Stinging Annual Lupine,Merlot,2082.5,3880.82,450,Invierno
+584,Urera,Pinot Noir,171.15,915.47,345,Verano
+585,Cape-fuchsia,Pinot Noir,1086.61,270.96,984,Otoño
+586,Hawkweed,Merlot,2414.54,1357.77,840,Invierno
+587,Sharpleaf Penstemon,Pinot Noir,1199.68,4891.43,256,Verano
+588,Steyermark's Milkwort,Sangiovese,307.77,748.72,655,Otoño
+589,Duncan's Foxtail Cactus,Malbec,1104.12,740.87,272,Otoño
+590,Waterhyssop,Pinot Noir,244.15,1684.36,147,Primavera
+591,Sierran Palm,Cabernet Sauvignon,1695.36,2333.72,441,Invierno
+592,Wright's Paspalum,Pinot Noir,1484.07,277.05,40,Primavera
+593,Seacliff Starviolet,Cabernet Sauvignon,2908.04,5600.7,716,Otoño
+594,Broadleaf Gilia,Malbec,1097.86,973.8,445,Invierno
+595,Hoary Brome,Sangiovese,1991.11,1602.64,323,Otoño
+596,Whitetop,Pinot Noir,262.53,3949.46,753,Invierno
+597,Toothed Five Eyes,Merlot,2939.52,3991.95,698,Verano
+598,Caralluma,Sangiovese,708.66,4397.44,383,Primavera
+599,Lancepod,Sangiovese,169.32,4070.25,914,Verano
+600,Rock Cinquefoil,Merlot,2871.07,2237.34,417,Otoño
+601,Fennel,Sangiovese,429.86,1337.08,540,Verano
+602,Palmer's Clover,Malbec,510.12,580.03,327,Otoño
+603,Goebel's Bulbothrix Lichen,Merlot,1464.65,3943.76,902,Verano
+604,Sierra Lupine,Sangiovese,526.33,2657.94,358,Invierno
+605,Jones' Sedge,Pinot Noir,2771.91,1016.83,892,Primavera
+606,Granite Prickly Phlox,Sangiovese,2005.33,4917.39,225,Otoño
+607,Hairy Banana,Merlot,1638.06,1410.15,637,Invierno
+608,Puerto Rico Zephyrlily,Merlot,484.46,1937.61,431,Otoño
+609,Northern Spicebush,Cabernet Sauvignon,849.9,4789.93,898,Invierno
+610,Prairie Bluebells,Cabernet Sauvignon,374.21,404.0,708,Primavera
+611,Cushion Spurge,Malbec,2219.22,4617.12,274,Verano
+612,Tansy Bristle Fern,Malbec,194.39,1666.37,727,Invierno
+613,Florida Scrub Roseling,Cabernet Sauvignon,2462.8,3735.71,421,Verano
+614,Timber Milkvetch,Cabernet Sauvignon,2910.84,1294.35,157,Invierno
+615,Brasenia,Cabernet Sauvignon,913.6,2631.11,916,Otoño
+616,Hare's Ear,Merlot,973.63,425.56,643,Invierno
+617,Porter's Licorice-root,Sangiovese,2806.45,3367.19,7,Otoño
+618,Bryhnia Moss,Cabernet Sauvignon,2354.57,512.44,532,Invierno
+619,Woolly Willow,Pinot Noir,1366.96,4536.07,416,Verano
+620,Sanionia Moss,Pinot Noir,1976.01,2348.79,685,Primavera
+621,Saskatoon Serviceberry,Merlot,911.3,251.13,641,Verano
+622,Snow Lichen,Merlot,673.17,5079.96,495,Verano
+623,Plains Evening Primrose,Cabernet Sauvignon,761.16,3558.21,685,Verano
+624,Pyp Grass,Merlot,1101.97,546.03,91,Otoño
+625,White Bully,Malbec,194.93,1452.71,147,Otoño
+626,Conostomum Moss,Malbec,2218.08,3715.04,285,Invierno
+627,California Red Fir,Cabernet Sauvignon,1727.29,1040.43,980,Verano
+628,Neslia,Sangiovese,858.29,719.99,233,Invierno
+629,Lobed Phaeographis,Pinot Noir,273.93,3146.68,554,Otoño
+630,Coulter's Lupine,Merlot,2217.51,2110.33,743,Verano
+631,Great St. Johnswort,Sangiovese,1011.74,1245.42,744,Verano
+632,Sensitive Fern,Malbec,2646.79,2388.68,697,Primavera
+633,Narcissus Anemone,Cabernet Sauvignon,394.31,4679.85,547,Invierno
+634,Shrubby Cinquefoil,Sangiovese,357.72,3049.12,341,Invierno
+635,Woodyaster,Malbec,2367.14,4208.79,24,Invierno
+636,Fruitleaf Knotweed,Malbec,2838.48,3731.23,51,Verano
+637,Garden Cornflower,Pinot Noir,2985.44,4807.55,218,Primavera
+638,Largeflower Yellow False Foxglove,Merlot,2824.9,3824.46,59,Invierno
+639,Willow Dock,Merlot,1617.66,3034.44,947,Primavera
+640,Small's Acroporium Moss,Merlot,2531.1,3557.06,890,Verano
+641,Crabgrass,Sangiovese,1098.19,5571.06,328,Otoño
+642,Beach Pinweed,Malbec,2545.32,2597.59,63,Primavera
+643,Pale Agoseris,Sangiovese,801.28,1626.03,326,Primavera
+644,Tall Blazing Star,Merlot,2967.62,1299.08,949,Verano
+645,Wasatch Bluegrass,Sangiovese,1180.83,1197.8,372,Verano
+646,Philodendron,Sangiovese,2385.63,4895.25,873,Invierno
+647,Areca Palm,Merlot,224.8,2982.66,142,Otoño
+648,Perrottetia,Merlot,1264.92,2747.18,327,Verano
+649,Slimspike Threeawn,Malbec,2817.59,1843.0,760,Otoño
+650,Dyer's Madder,Sangiovese,420.84,4267.69,821,Primavera
+651,Guatteria,Pinot Noir,2928.14,2852.1,580,Primavera
+652,Skin Lichen,Cabernet Sauvignon,1063.39,3661.31,169,Invierno
+653,Bluntleaf Bedstraw,Malbec,1582.49,5638.04,69,Otoño
+654,Borage,Sangiovese,112.22,2196.92,383,Primavera
+655,Bay Cedar,Pinot Noir,788.25,852.58,114,Primavera
+656,Exostema,Merlot,2820.8,5244.35,528,Otoño
+657,El Pulguero Flatsedge,Malbec,2621.9,4945.63,410,Verano
+658,Witch's Hair Lichen,Pinot Noir,2290.71,4325.21,694,Primavera
+659,Glochidion,Merlot,2328.86,3054.51,261,Primavera
+660,Black-heads,Merlot,1172.47,1408.62,470,Otoño
+661,Pine,Cabernet Sauvignon,2425.84,4437.68,681,Invierno
+662,Fremont's Chaffbush,Pinot Noir,2478.58,3621.41,181,Invierno
+663,Phlyctella Lichen,Pinot Noir,1952.9,2897.25,618,Otoño
+664,Morden's Parmotrema Lichen,Malbec,2357.58,5242.6,606,Invierno
+665,African Cornflag,Malbec,2046.15,1921.65,895,Invierno
+666,Hawai'i Air Fern,Merlot,1236.62,413.75,525,Invierno
+667,Muck Sunflower,Pinot Noir,2686.22,2033.81,259,Invierno
+668,Leciophysma Lichen,Cabernet Sauvignon,106.02,954.53,975,Invierno
+669,Malabar Melastome,Malbec,2457.61,2905.1,576,Invierno
+670,Snow Lichen,Malbec,1618.32,5592.14,473,Otoño
+671,Hairypink,Sangiovese,2036.41,2714.79,862,Invierno
+672,Howell's Pioneer Rockcress,Pinot Noir,2779.47,3961.88,118,Verano
+673,Peach Springs Canyon Cholla,Cabernet Sauvignon,2614.75,845.65,135,Verano
+674,Grassleaf Barbara's Buttons,Sangiovese,2538.47,2069.88,216,Primavera
+675,Maroon Carolina Milkvine,Cabernet Sauvignon,1151.78,1514.97,399,Verano
+676,Goldenbush,Cabernet Sauvignon,332.38,1024.55,111,Otoño
+677,Cary's Beardtongue,Pinot Noir,1396.99,3256.01,979,Otoño
+678,Entireleaf Mountain-avens,Malbec,1504.15,4473.28,236,Invierno
+679,Waterpurslane,Malbec,1324.11,4304.54,924,Otoño
+680,Texas Beeblossom,Pinot Noir,2939.49,1871.91,42,Primavera
+681,European Scopolia,Merlot,834.79,4060.21,632,Otoño
+682,Garden Rhubarb,Malbec,387.83,2983.37,427,Verano
+683,Pygmy Bladderpod,Sangiovese,2883.43,3779.45,960,Verano
+684,Hybrid Oak,Merlot,2357.0,2335.1,648,Primavera
+685,Fire Pink,Malbec,1502.86,1263.71,170,Verano
+686,Nodding Onion,Pinot Noir,2109.45,4636.46,845,Primavera
+687,Paxistima,Cabernet Sauvignon,1061.39,2569.84,521,Primavera
+688,Eastern Poison Ivy,Pinot Noir,834.02,4482.6,787,Verano
+689,Slender Creeping-oxeye,Malbec,442.21,4641.03,214,Otoño
+690,Veiny Geranium,Sangiovese,562.14,1617.37,233,Verano
+691,Hawkweed,Malbec,1167.45,4868.23,570,Otoño
+692,Dunedelion,Malbec,195.77,3624.87,358,Verano
+693,Organ Mountain Indian Paintbrush,Malbec,1907.89,2774.78,589,Verano
+694,Frosted Lichen,Pinot Noir,1866.2,3610.96,792,Verano
+695,Greenleaf Tuckermannopsis Lichen,Merlot,960.4,1154.94,729,Primavera
+696,Willowleaf Aster,Merlot,530.82,784.29,68,Invierno
+697,River False Buttonweed,Pinot Noir,2623.51,5366.24,192,Otoño
+698,Dwarf Marsh Violet,Merlot,2163.57,4949.14,957,Primavera
+699,Cold Spring Blackberry,Malbec,1628.83,266.42,361,Invierno
+700,Blackthread Lichen,Malbec,945.01,467.54,85,Primavera
+701,Bonpland's Scribble Lichen,Malbec,1821.43,3558.98,162,Primavera
+702,Button Brittlebush,Merlot,1687.47,466.69,506,Verano
+703,Wart Lichen,Pinot Noir,2334.64,1070.54,551,Invierno
+704,Splendid Woodland-gilia,Cabernet Sauvignon,1097.21,328.91,952,Primavera
+705,Guadalupe Wild Coffee,Cabernet Sauvignon,2655.4,801.32,125,Verano
+706,Red Willow,Merlot,527.5,1995.14,104,Invierno
+707,Xylosma,Malbec,2323.57,2121.65,553,Primavera
+708,Wild Date Palm,Cabernet Sauvignon,1024.77,2385.09,337,Otoño
+709,Marijuana,Pinot Noir,374.0,4915.61,236,Invierno
+710,Splitbeard Bluestem,Merlot,1992.26,3668.84,186,Primavera
+711,Bower Wattle,Sangiovese,2171.08,3370.53,916,Invierno
+712,European Aspen,Pinot Noir,2189.02,1038.45,543,Otoño
+713,Endive Daisy,Cabernet Sauvignon,1265.15,1504.28,311,Primavera
+714,Mound Phlox,Merlot,425.76,3946.7,78,Verano
+715,Palmer's Rabbitbrush,Pinot Noir,193.6,1384.23,227,Verano
+716,Cory's Jointfir,Pinot Noir,289.42,3221.68,613,Primavera
+717,Pterocarpus,Merlot,1695.99,4614.09,68,Verano
+718,False Horkelia,Merlot,2437.45,1100.12,969,Primavera
+719,European Plum,Pinot Noir,2802.11,1141.89,924,Otoño
+720,Showy Goldeneye,Sangiovese,2532.13,4832.48,641,Otoño
+721,Mountain Heartleaf,Cabernet Sauvignon,2459.24,3124.65,309,Otoño
+722,Cuesta Pass Checker,Malbec,116.01,2705.73,325,Invierno
+723,Anise Primrose,Pinot Noir,350.67,5079.28,996,Verano
+724,Kittentails,Pinot Noir,1039.13,1578.73,294,Primavera
+725,Milkmaids,Sangiovese,253.15,3098.41,909,Primavera
+726,Ostler's Mousetail,Sangiovese,2728.65,341.82,341,Otoño
+727,Sutherland's Larkspur,Malbec,1881.08,1807.02,192,Otoño
+728,Geophila,Merlot,2169.47,2938.75,15,Otoño
+729,Canterbury Bells,Pinot Noir,622.86,1838.41,974,Primavera
+730,Lacy Maiden Fern,Merlot,861.18,967.73,958,Verano
+731,Alabama Croton,Pinot Noir,2228.77,1978.74,500,Invierno
+732,Alkali Desertparsley,Sangiovese,1895.65,5666.23,267,Invierno
+733,Sticky Sandspurry,Sangiovese,2163.73,1843.62,747,Verano
+734,Canyon Gooseberry,Merlot,1524.3,564.57,999,Invierno
+735,Tall Horned Beaksedge,Malbec,2327.83,2069.86,714,Otoño
+736,Broadleaf Lupine,Cabernet Sauvignon,1978.79,4752.29,455,Verano
+737,Lathrocasis,Pinot Noir,2651.29,2719.61,861,Primavera
+738,Alaska Tall Bluebells,Cabernet Sauvignon,960.84,3784.3,740,Verano
+739,Bigleaf Aster,Malbec,845.47,2978.32,790,Otoño
+740,Mountain Blue Penstemon,Pinot Noir,2551.85,4033.51,463,Invierno
+741,Roseta,Cabernet Sauvignon,1848.59,158.67,938,Otoño
+742,Amerorchis,Merlot,1033.72,1198.54,837,Invierno
+743,Three-awn Grass,Cabernet Sauvignon,1686.44,728.42,542,Verano
+744,Disc Lichen,Sangiovese,1238.7,5194.01,227,Otoño
+745,Zion Cliffbush,Pinot Noir,1316.31,3265.61,216,Verano
+746,Black Spleenwort,Sangiovese,1924.78,4554.33,659,Otoño
+747,Prairie Venus' Looking-glass,Malbec,1881.28,2236.62,334,Otoño
+748,Small Enchanter's Nightshade,Pinot Noir,2929.65,4138.92,299,Primavera
+749,Redspot Clarkia,Cabernet Sauvignon,1173.91,3175.9,148,Invierno
+750,Wilson's Maidenhair,Malbec,2243.71,3209.78,58,Primavera
+751,Geranium,Cabernet Sauvignon,1064.94,3447.91,475,Primavera
+752,Islandfern,Sangiovese,2742.03,3309.12,666,Verano
+753,Animated Oat,Sangiovese,2983.73,5645.31,284,Invierno
+754,Solidstem Burnet Saxifrage,Sangiovese,2513.22,1218.91,99,Invierno
+755,Gordon's Bladderpod,Pinot Noir,1525.15,1650.81,121,Otoño
+756,White Vervain,Malbec,1117.71,3985.76,755,Invierno
+757,Spreading Fleabane,Pinot Noir,2984.97,2481.2,709,Otoño
+758,Bristly Dogstail Grass,Sangiovese,2657.25,5350.77,491,Verano
+759,Tall Silky Lupine,Malbec,1242.41,2507.76,133,Primavera
+760,Smooth Penstemon,Cabernet Sauvignon,2657.09,2366.73,965,Verano
+761,Leprevost's Helminthocarpon Lichen,Cabernet Sauvignon,2780.82,1835.6,354,Verano
+762,Pigweed,Sangiovese,1265.78,236.82,306,Invierno
+763,Oriental Vessel Fern,Pinot Noir,1595.64,3740.53,882,Invierno
+764,Prairie Sumac,Cabernet Sauvignon,2167.8,986.69,929,Invierno
+765,Maidenhair Creeper,Pinot Noir,525.49,3120.62,907,Verano
+766,Ausu,Pinot Noir,1033.42,3201.07,660,Otoño
+767,Hala Pepe,Sangiovese,1223.28,2066.14,135,Otoño
+768,Maid Of The Mist,Merlot,2686.39,1870.56,950,Invierno
+769,Birthwort,Sangiovese,2488.5,3050.17,182,Verano
+770,Pallid Milkweed,Merlot,1181.18,4706.53,352,Primavera
+771,Purplestem Beggarticks,Sangiovese,2826.37,5094.75,175,Verano
+772,Ajo Xanthoparmelia Lichen,Malbec,1895.92,2607.94,966,Otoño
+773,Saelania Moss,Cabernet Sauvignon,1749.03,1667.23,847,Invierno
+774,Bahama Nightshade,Malbec,1467.51,3178.9,870,Invierno
+775,Purpleflower Pinkroot,Pinot Noir,2115.64,5602.88,718,Primavera
+776,Eaton's Aster,Malbec,2351.19,484.59,765,Verano
+777,Pauper Milkvetch,Pinot Noir,2596.9,958.37,391,Verano
+778,Richwoods Sedge,Sangiovese,2971.4,2233.52,779,Invierno
+779,Western Australian Floodedgum,Malbec,200.01,4460.3,59,Otoño
+780,Bear Valley Buckwheat,Malbec,991.88,997.57,355,Verano
+781,Recurved Small Limestone Moss,Cabernet Sauvignon,1111.95,797.34,553,Invierno
+782,Horsehair Lichen,Sangiovese,1439.14,4980.35,243,Invierno
+783,Fremont's-gold,Malbec,2281.2,1680.41,705,Otoño
+784,Jute,Malbec,1450.64,1928.03,762,Invierno
+785,Wilcox's Nipple Cactus,Cabernet Sauvignon,2440.3,3695.57,743,Invierno
+786,Cardinal's Feather,Pinot Noir,2761.96,3990.45,747,Verano
+787,Iowa Rim Lichen,Cabernet Sauvignon,1649.96,3889.01,327,Invierno
+788,Crossflower,Pinot Noir,2265.72,2349.79,632,Verano
+789,Scarlet Hedgenettle,Cabernet Sauvignon,2710.33,5684.8,149,Otoño
+790,Widethroat Yellow Monkeyflower,Pinot Noir,2438.52,4210.52,152,Primavera
+791,Dubautia,Malbec,892.77,519.35,877,Invierno
+792,Manyflower Stickseed,Sangiovese,2761.85,316.48,620,Verano
+793,Mammoth Wildrye,Merlot,289.15,2219.44,926,Primavera
+794,California Eryngo,Merlot,2034.39,2743.05,721,Verano
+795,Beautiful Woolly Sunflower,Merlot,809.5,5360.24,554,Primavera
+796,Hybrid Rhododendron,Pinot Noir,1492.15,4372.4,298,Otoño
+797,Low Northern Sedge,Malbec,503.1,2551.52,433,Verano
+798,Flattened Oatgrass,Sangiovese,2908.04,2655.23,700,Verano
+799,Stork's Bill,Cabernet Sauvignon,2654.52,1634.53,466,Invierno
+800,American Plum,Pinot Noir,1860.68,2073.86,884,Invierno
+801,Rose Mock Vervain,Pinot Noir,2804.48,934.99,763,Invierno
+802,Idaho Gumweed,Pinot Noir,2355.49,2027.71,48,Otoño
+803,Largeroot Morning-glory,Pinot Noir,1365.26,2216.51,219,Invierno
+804,Woolly Burdock,Merlot,552.02,2227.94,239,Primavera
+805,Parry's Rabbitbrush,Malbec,1361.87,2761.76,79,Verano
+806,Narrow-leaved Rockdaisy,Cabernet Sauvignon,2227.01,4898.04,188,Invierno
+807,Mamani,Pinot Noir,705.98,659.05,918,Verano
+808,Artist's Popcornflower,Malbec,2846.03,3647.1,896,Primavera
+809,Spearleaf Buckwheat,Merlot,2874.71,5002.45,274,Verano
+810,Nevada Pea,Cabernet Sauvignon,2481.33,3716.67,370,Verano
+811,James' Buckwheat,Cabernet Sauvignon,2977.62,2299.08,620,Invierno
+812,Shade Phacelia,Malbec,502.93,3757.66,135,Invierno
+813,Common Duckweed,Pinot Noir,510.06,228.41,828,Invierno
+814,Wart Lichen,Sangiovese,2080.56,1763.11,411,Verano
+815,Scabiosa,Malbec,2171.13,957.22,159,Otoño
+816,Indian Blanket,Merlot,892.3,2518.36,175,Otoño
+817,Arboreal Leafystem Orchid,Pinot Noir,2809.73,2294.66,767,Verano
+818,Tomcat Clover,Merlot,966.72,1233.58,179,Invierno
+819,Texas Bullnettle,Merlot,2338.54,340.1,156,Verano
+820,Tapeworm-plant,Cabernet Sauvignon,580.81,2577.57,524,Verano
+821,Sierra Biscuitroot,Pinot Noir,2197.99,1206.23,679,Otoño
+822,Lompoc Mesa Bush Monkeyflower,Sangiovese,1077.71,725.41,512,Verano
+823,Missouri River Willow,Cabernet Sauvignon,254.6,5264.32,800,Invierno
+824,Beaked Skeletonweed,Cabernet Sauvignon,1543.59,2065.45,380,Primavera
+825,Little Rose,Sangiovese,2231.63,4995.68,230,Invierno
+826,Pili Nut,Malbec,1382.69,2912.47,392,Invierno
+827,Silky Lupine,Pinot Noir,1342.45,847.8,105,Primavera
+828,Parry's Bellflower,Merlot,2783.57,639.9,396,Invierno
+829,Pitcherplant,Merlot,2589.87,301.97,853,Verano
+830,Mimicking Sandmat,Malbec,2631.64,5185.26,113,Otoño
+831,False Calico,Sangiovese,2704.3,3615.27,536,Otoño
+832,Curvepod Yellowcress,Pinot Noir,2387.12,4009.97,321,Invierno
+833,Thread Lichen,Pinot Noir,495.7,3524.48,356,Primavera
+834,Peregrine Thistle,Malbec,304.09,1760.93,363,Verano
+835,Malheur Penstemon,Sangiovese,514.38,1359.71,204,Primavera
+836,Byrsonima,Pinot Noir,429.92,1272.96,77,Verano
+837,Screwstem,Cabernet Sauvignon,1197.1,2234.57,506,Primavera
+838,Sedge,Merlot,612.69,1910.94,612,Primavera
+839,Edwards Plateau Spiderwort,Cabernet Sauvignon,2623.7,5398.49,21,Verano
+840,Sprucefir Fleabane,Pinot Noir,1693.76,943.03,479,Otoño
+841,Hygrohypnum Moss,Pinot Noir,1397.19,306.71,61,Invierno
+842,Lamp Rush,Malbec,1308.33,3501.53,929,Verano
+843,Plantain Lily,Malbec,1279.59,1279.96,892,Otoño
+844,Feathered Mosquitofern,Cabernet Sauvignon,953.2,1955.84,12,Verano
+845,Guadalupe Waternymph,Sangiovese,176.25,1064.91,143,Primavera
+846,Fanleaf Vervain,Merlot,1417.93,2478.24,481,Otoño
+847,West Indian Soldierbush,Merlot,2264.19,3566.14,404,Invierno
+848,Sierra Suncup,Malbec,2100.34,1820.75,545,Otoño
+849,Colorado Blue Columbine,Sangiovese,2898.87,235.44,110,Otoño
+850,Island Gooseberry,Cabernet Sauvignon,1262.02,3161.79,725,Verano
+851,Adonis Blazingstar,Sangiovese,806.44,2188.87,496,Primavera
+852,Rehman's Halfchaff Sedge,Cabernet Sauvignon,1255.63,5140.45,405,Verano
+853,Nutrush,Sangiovese,1819.11,3305.0,516,Primavera
+854,Atlantic Camas,Pinot Noir,1476.41,5266.88,568,Primavera
+855,Stitchwort,Pinot Noir,1919.04,1147.49,811,Primavera
+856,Sierra Blanca Cinquefoil,Malbec,1737.95,485.52,98,Verano
+857,Carrotleaf Horkelia,Merlot,1459.33,2423.87,846,Verano
+858,Herre's Ragged Lichen,Malbec,634.76,5422.98,147,Primavera
+859,Douglas' Spiny Milkvetch,Pinot Noir,2719.08,3981.58,142,Invierno
+860,Blue Mountain Buckwheat,Cabernet Sauvignon,2970.09,4550.38,228,Verano
+861,Supine Bean,Sangiovese,1469.0,4268.26,536,Otoño
+862,Niguita,Merlot,2441.22,5485.71,194,Otoño
+863,Pine Violet,Merlot,2840.11,548.87,152,Verano
+864,Cuban Tree Destroyer,Merlot,1218.41,4496.73,926,Otoño
+865,Wild Coffee-bean,Merlot,172.0,2748.01,782,Verano
+866,Fourpetal Pawpaw,Sangiovese,588.29,2576.54,929,Primavera
+867,Blunt Broom Sedge,Malbec,1646.79,1484.84,854,Otoño
+868,Chaparral Bird's-foot Trefoil,Sangiovese,602.58,5452.72,124,Otoño
+869,Miniature Lupine,Sangiovese,1185.41,1967.23,408,Primavera
+870,Suksdorf's Silene,Malbec,2174.84,641.0,605,Primavera
+871,Bahama Wild Coffee,Merlot,1749.93,4808.58,748,Verano
+872,Aboriginal Willowherb,Malbec,2051.06,1976.5,844,Verano
+873,Perennial Quakinggrass,Merlot,1063.0,5177.25,594,Verano
+874,Alyssum Evening Primrose,Malbec,1985.69,611.99,36,Primavera
+875,California Stork's Bill,Pinot Noir,2376.97,3522.25,326,Otoño
+876,Absaroka Range Beardtongue,Merlot,642.84,4170.49,779,Primavera
+877,Tansy Dogshade,Pinot Noir,2293.86,3158.91,110,Primavera
+878,Pond Pine,Malbec,1015.66,2049.96,542,Invierno
+879,Thymeleaf Speedwell,Pinot Noir,889.59,4438.6,896,Verano
+880,Mallow Bindweed,Sangiovese,851.7,2493.46,598,Verano
+881,Wright's Deervetch,Pinot Noir,1741.9,1820.88,723,Invierno
+882,Sharpscale Spikerush,Pinot Noir,2781.8,4331.08,919,Otoño
+883,Pycothelia Lichen,Cabernet Sauvignon,1207.35,5663.38,355,Invierno
+884,Carolina Wild Petunia,Malbec,1019.27,3556.59,563,Verano
+885,Cup Lichen,Malbec,84.97,2821.84,316,Verano
+886,Smooth Hawksbeard,Sangiovese,2836.79,4516.43,122,Verano
+887,Lava Dock,Malbec,2238.23,1357.45,306,Verano
+888,Hairy Indian Mallow,Sangiovese,1624.77,1603.78,354,Otoño
+889,Engelmann's False Yucca,Merlot,2404.26,4139.23,893,Invierno
+890,Manchurian Wildrice,Cabernet Sauvignon,2108.43,2793.57,257,Invierno
+891,Slender Bulrush,Pinot Noir,879.11,4262.36,181,Otoño
+892,Aguacatillo,Malbec,318.56,1571.94,875,Invierno
+893,Rock Whitefeather,Pinot Noir,2698.35,299.09,583,Primavera
+894,Largeseed Bittercress,Sangiovese,2958.69,4465.7,217,Primavera
+895,Drooping Juniper,Cabernet Sauvignon,1662.01,1418.7,557,Invierno
+896,Coulter's Brickellbush,Cabernet Sauvignon,224.28,3758.65,838,Verano
+897,Oppositeleaf Lewisia,Sangiovese,2860.9,963.16,397,Primavera
+898,Parachute Sedge,Cabernet Sauvignon,252.36,1019.67,84,Primavera
+899,Cure For All,Pinot Noir,2737.28,5108.96,578,Invierno
+900,Redskin Onion,Pinot Noir,688.46,3036.32,791,Otoño
+901,Golden Wattle,Merlot,1588.35,1016.35,983,Invierno
+902,Sweet Yellowcrown,Pinot Noir,2415.33,848.71,555,Verano
+903,Commelina,Malbec,608.35,358.53,865,Otoño
+904,Pincushion,Sangiovese,1315.83,4652.9,902,Otoño
+905,Chickweed Baby's-breath,Cabernet Sauvignon,1764.51,2178.98,619,Primavera
+906,Arctic Dock,Merlot,2878.83,4191.65,746,Otoño
+907,Vernal Water-starwort,Pinot Noir,1034.03,4826.59,626,Verano
+908,Bastard Gregre,Merlot,1039.38,708.32,775,Otoño
+909,Skult's Shield Lichen,Sangiovese,2412.99,888.87,555,Invierno
+910,Cracked Lichen,Sangiovese,2612.52,5495.2,337,Primavera
+911,Tomentypnum Moss,Pinot Noir,688.05,2087.88,870,Verano
+912,Texas Lespedeza,Malbec,2888.47,3860.48,317,Primavera
+913,Trans-pecos Beargrass,Pinot Noir,510.08,899.99,711,Verano
+914,Enquist's Brazos-mint,Pinot Noir,1432.18,2317.94,674,Otoño
+915,Wilson's Bonnet Orchid,Malbec,581.69,5545.32,97,Primavera
+916,Poranopsis,Merlot,482.98,5509.0,385,Primavera
+917,Lands Of Papa Pritchardia,Merlot,2932.41,1853.69,971,Verano
+918,Giant White Fawnlily,Sangiovese,2725.13,952.72,84,Invierno
+919,Southern Hayscented Fern,Malbec,631.27,2304.58,984,Verano
+920,Ridgetop Labordia,Cabernet Sauvignon,2125.14,2450.04,453,Primavera
+921,Homalotheciella Moss,Cabernet Sauvignon,390.71,3292.64,313,Invierno
+922,Desert Globemallow,Merlot,1578.28,4087.22,173,Otoño
+923,Corkystem Passionflower,Merlot,478.54,2419.71,623,Invierno
+924,Whitehair Manzanita,Malbec,390.19,506.6,160,Invierno
+925,Millet Crabgrass,Pinot Noir,1965.97,2305.33,427,Verano
+926,Navel Lichen,Cabernet Sauvignon,1736.15,3703.61,61,Verano
+927,Weed Silene,Cabernet Sauvignon,862.91,671.4,341,Primavera
+928,Woodland Wild Coffee,Merlot,488.09,4246.48,362,Otoño
+929,Pygmypipes,Sangiovese,2794.96,5506.49,842,Verano
+930,Smallflower Bruguiera,Cabernet Sauvignon,1890.65,2127.73,939,Verano
+931,Rescuegrass,Pinot Noir,1024.21,1136.12,84,Verano
+932,Arizona Cottonrose,Sangiovese,2614.65,1542.09,811,Otoño
+933,Shorthorn Steer's-head,Merlot,748.04,4587.45,164,Otoño
+934,Hispanic Hyacinthoides,Pinot Noir,1706.36,4407.1,591,Invierno
+935,Sack Saltbush,Cabernet Sauvignon,1672.1,3737.96,555,Otoño
+936,Egyptian Starcluster,Cabernet Sauvignon,1530.85,1496.79,438,Otoño
+937,Sand Palafox,Merlot,2333.63,4766.36,33,Invierno
+938,Mearns' Bird's-foot Trefoil,Merlot,1827.2,3153.11,642,Invierno
+939,Imshaugia Lichen,Pinot Noir,2862.52,5186.5,76,Primavera
+940,Gypsum Centaury,Merlot,2239.52,167.51,575,Primavera
+941,Wart Lichen,Pinot Noir,2082.79,5489.51,786,Primavera
+942,Thickleaf Peperomia,Cabernet Sauvignon,960.73,4985.1,23,Primavera
+943,African Rosemallow,Cabernet Sauvignon,2432.28,3886.43,694,Primavera
+944,Trans-pecos Amaranth,Cabernet Sauvignon,309.95,5438.8,302,Invierno
+945,Roundleaf Stork's Bill,Cabernet Sauvignon,450.85,4872.48,129,Otoño
+946,Night And Afternoon,Malbec,969.7,5218.95,304,Otoño
+947,Owl's-clover,Merlot,2407.97,4673.15,420,Otoño
+948,Liebmann's Bristlegrass,Merlot,2757.99,1237.0,425,Otoño
+949,Cholla,Merlot,847.0,1343.74,514,Verano
+950,Upland Dewberry,Malbec,1132.57,2571.88,22,Verano
+951,Senegal Saba,Pinot Noir,2716.32,1193.78,343,Otoño
+952,Rim Lichen,Pinot Noir,1116.83,4940.47,775,Otoño
+953,Acute Blindia Moss,Cabernet Sauvignon,844.58,1335.49,44,Primavera
+954,Rocky Mountain Juniper,Sangiovese,2018.98,575.72,291,Primavera
+955,Washington Springbeauty,Sangiovese,174.32,4848.62,643,Verano
+956,Avery Peak Twinpod,Cabernet Sauvignon,468.25,3573.28,815,Primavera
+957,Fringed Lichen,Merlot,1441.05,1534.13,427,Verano
+958,Aloina Moss,Merlot,231.82,1338.7,909,Otoño
+959,Cartilage Lichen,Pinot Noir,1678.9,1892.57,733,Otoño
+960,Hypotrachyna Lichen,Malbec,1189.41,2302.91,448,Otoño
+961,Manybristle Chinchweed,Merlot,1420.49,3250.12,275,Primavera
+962,Pyrgillus Lichen,Malbec,604.13,1197.45,738,Verano
+963,Western Cliff Fern,Merlot,280.74,785.53,316,Otoño
+964,Yerba De Plata,Merlot,160.86,5366.85,368,Otoño
+965,Desert Bird's-beak,Malbec,1738.28,1636.01,286,Verano
+966,Southern Hawkweed,Merlot,2390.58,3928.32,763,Verano
+967,Savannah False Pimpernel,Merlot,2784.59,3474.38,209,Otoño
+968,Platydictya Moss,Cabernet Sauvignon,1273.75,216.32,67,Verano
+969,Kittatinny Blackberry,Sangiovese,2521.52,5467.92,469,Primavera
+970,Longawn Muhly,Malbec,91.38,3544.05,418,Verano
+971,Navajo Fleabane,Pinot Noir,1173.34,3536.55,224,Invierno
+972,Russian Thistle,Cabernet Sauvignon,994.6,1105.64,795,Invierno
+973,Maui Panicgrass,Sangiovese,1175.84,1917.52,915,Verano
+974,Cacaliopsis,Cabernet Sauvignon,2276.4,1980.93,796,Otoño
+975,Cliff Spurge,Pinot Noir,136.59,3630.57,810,Verano
+976,Gallic Cracked Lichen,Sangiovese,330.23,582.59,519,Verano
+977,Roadside Flatsedge,Pinot Noir,1636.36,1279.5,366,Verano
+978,Virginia Wildrye,Sangiovese,421.15,1543.51,135,Otoño
+979,Narrowleaf Firethorn,Sangiovese,300.53,388.67,193,Verano
+980,Cliff Fern,Malbec,938.46,3430.53,497,Verano
+981,Silverberry,Pinot Noir,918.12,5172.29,473,Verano
+982,Tufted Twinpod,Pinot Noir,2078.74,2321.42,949,Verano
+983,Virginia Wakerobin,Pinot Noir,1760.6,2147.76,994,Invierno
+984,Macradenia,Sangiovese,1708.67,5398.08,882,Otoño
+985,Spreadingpod Rockcress,Pinot Noir,1221.32,1457.66,499,Otoño
+986,Indian Rhubarb,Pinot Noir,1221.8,4529.37,164,Primavera
+987,Bear Oak,Pinot Noir,439.0,2364.19,122,Verano
+988,Nelson's Sedge,Malbec,2684.63,2214.79,430,Verano
+989,Muller Oak,Sangiovese,1024.47,790.91,392,Otoño
+990,Sand Phacelia,Sangiovese,691.68,3251.91,805,Primavera
+991,Searchlight Pricklypear,Pinot Noir,1866.42,2809.79,1,Otoño
+992,Menzies' Anacolia Moss,Sangiovese,1289.62,4355.82,707,Invierno
+993,Largeflower Onion,Pinot Noir,2537.88,4009.62,502,Otoño
+994,Dulichium,Cabernet Sauvignon,1946.25,1210.6,184,Primavera
+995,Black Locust,Sangiovese,2097.23,3689.19,584,Verano
+996,False Rubber Tree,Merlot,1938.11,3529.71,160,Otoño
+997,Nickels' Cactus,Sangiovese,1061.85,4772.01,138,Invierno
+998,Coast Indian Paintbrush,Cabernet Sauvignon,2492.29,3270.25,459,Verano
+999,Hairy Lipfern,Merlot,2269.63,3027.94,647,Invierno
+1000,White Pea,Merlot,1918.23,1539.37,890,Invierno

@@ -1,0 +1,1001 @@
+codigo,nombre,region
+1,Rosaceae,Jiabei
+2,Bryaceae,Changjiang
+3,Solanaceae,Wuning
+4,Malvaceae,San Juan
+5,Orchidaceae,North Battleford
+6,Ranunculaceae,Viljandi
+7,Rosaceae,Boé
+8,Poaceae,Kawaguchi
+9,Asteraceae,Marihatag
+10,Fabaceae,Alicante/Alacant
+11,Scrophulariaceae,Żywiec
+12,Micareaceae,Tovarnik
+13,Parmeliaceae,Gardinovci
+14,Musaceae,São Pedro do Estoril
+15,Primulaceae,Nashtā Rūd
+16,Poaceae,Shixi
+17,Amaranthaceae,Volgograd
+18,Solanaceae,Kuanchuan
+19,Poaceae,Krajan
+20,Urticaceae,Lieqiao
+21,Ranunculaceae,Fuxi
+22,Brassicaceae,Wonosobo
+23,Acanthaceae,Norak
+24,Poaceae,Koshigaya
+25,Gesneriaceae,Yueshan
+26,Asteraceae,Pivka
+27,Asteraceae,Dallas
+28,Rosaceae,Yuecheng
+29,Liliaceae,Frederiksberg
+30,Poaceae,Daitou
+31,Berberidaceae,Kedungcangkring
+32,Physciaceae,Borovan
+33,Convolvulaceae,Sémbé
+34,Acanthaceae,Cockburn Town
+35,Apiaceae,Cassanayan
+36,Asteraceae,Nangang
+37,Rhamnaceae,Mendeleyevo
+38,Asteraceae,Putina
+39,Ramalinaceae,Ambarita
+40,Lycopodiaceae,Foros de Salvaterra
+41,Acarosporaceae,Nagua
+42,Asteraceae,Villa Urquiza
+43,Ericaceae,Lanlacuni Bajo
+44,Fabaceae,Maddela
+45,Scrophulariaceae,Bolanon
+46,Anacardiaceae,Loei
+47,Dryopteridaceae,Askersund
+48,Oleaceae,Wuluo
+49,Aloaceae,Boca de Uchire
+50,Pteridaceae,Lezhë
+51,Parmeliaceae,Mlawat
+52,Fabaceae,Chengbei
+53,Gentianaceae,Janagdong
+54,Scrophulariaceae,Sulitair
+55,Arthoniaceae,Xiabaishi
+56,Onagraceae,Hagi
+57,Poaceae,Baculongan
+58,Pteridaceae,Oslo
+59,Convolvulaceae,Castro Barros
+60,Polygonaceae,Los Angeles
+61,Apiaceae,Meadow Lake
+62,Verbenaceae,Shujāābād
+63,Pyrenulaceae,Eskilstuna
+64,Acanthaceae,Bogdaniec
+65,Gentianaceae,Binhailu
+66,Cyperaceae,Alasmalang
+67,Solanaceae,Strzelce
+68,Solanaceae,Shangdu
+69,Onagraceae,Seixo da Beira
+70,Annonaceae,Fontana
+71,Rubiaceae,Pattani
+72,Capparaceae,Kushnytsya
+73,Cactaceae,Qingyun
+74,Asteraceae,Girey
+75,Bignoniaceae,Huanggang
+76,Teloschistaceae,Kotanopan
+77,Ericaceae,Chaoshui
+78,Ericaceae,Rossosh’
+79,Boraginaceae,Herzliyya
+80,Scrophulariaceae,Itéa
+81,Acanthaceae,Ganxi
+82,Pottiaceae,Krajan
+83,Onagraceae,Omuthiya
+84,Campanulaceae,Fuming
+85,Scrophulariaceae,Kętrzyn
+86,Loasaceae,Fangqiang
+87,Polygonaceae,Fagersta
+88,Amaranthaceae,Ehen Hudag
+89,Fabaceae,Dzhubga
+90,Asteraceae,Mingoyo
+91,Stereocaulaceae,Wenquan
+92,Vitaceae,San Ramón
+93,Fabaceae,Lapas
+94,Caryophyllaceae,Campinas
+95,Urticaceae,Sedayu
+96,Apocynaceae,Hwaseong-si
+97,Scrophulariaceae,Samouco
+98,Erythroxylaceae,Cognac
+99,Pontederiaceae,Rennes
+100,Scrophulariaceae,High Point
+101,Fabaceae,Liverpool
+102,Rubiaceae,Iberia
+103,Bryaceae,Bang Ban
+104,Rosaceae,Jintao
+105,Turneraceae,Rennes
+106,Poaceae,Älvsbyn
+107,Euphorbiaceae,Pécs
+108,Apiaceae,Tours
+109,Solanaceae,Lázně Kynžvart
+110,Caliciaceae,Tongquan
+111,Onagraceae,Berlin
+112,Asteraceae,Gondang
+113,Meteoriaceae,Khadzhalmakhi
+114,Alectoriaceae,Oslo
+115,Fagaceae,Rešetari
+116,Rubiaceae,Quinta dos Frades
+117,Ranunculaceae,Rakiv Lis
+118,Gesneriaceae,Turan
+119,Polygalaceae,Firenze
+120,Rosaceae,Capim Grosso
+121,Cyperaceae,Pedro Miguel
+122,Violaceae,Youngstown
+123,Asteraceae,La Mula
+124,Campanulaceae,La Valette-du-Var
+125,Opegraphaceae,Oyonnax
+126,Polypodiaceae,Novo Horizonte
+127,Oleaceae,Теарце
+128,Asteraceae,Lac-Mégantic
+129,Linaceae,Soio
+130,Asteraceae,Niopanda
+131,Balsaminaceae,Anār
+132,Rhizocarpaceae,Yanping
+133,Orchidaceae,Billa
+134,Cupressaceae,Patarrá
+135,Salicaceae,Yandian
+136,Brassicaceae,Zhuanshui
+137,Onagraceae,Lingbeizhou
+138,Fabaceae,Gandoang
+139,Araceae,Limoeiro do Norte
+140,Asteraceae,Cibitung
+141,Fabaceae,Francisco Villa
+142,Scrophulariaceae,Karipidita
+143,Asteraceae,Patos
+144,Ranunculaceae,Komyshany
+145,Malvaceae,Ceper
+146,Fabaceae,New Orleans
+147,Hydrocharitaceae,Dobra
+148,Araceae,Lorica
+149,Brassicaceae,Cafe
+150,Chenopodiaceae,Saint-Lô
+151,Cyperaceae,General Lavalle
+152,Caprifoliaceae,Faisalābād
+153,Orobanchaceae,Fusagasuga
+154,Asteraceae,Skhirat
+155,Papaveraceae,Legen
+156,Boraginaceae,Jiutai
+157,Solanaceae,Virden
+158,Asteraceae,Anambongan
+159,Brassicaceae,Kaytitinga
+160,Orchidaceae,Leiden
+161,Fabaceae,Jicun
+162,Liliaceae,Altavista
+163,Ranunculaceae,Banjar Tengahbelayu
+164,Fabaceae,Modimolle
+165,Hydrophyllaceae,Paynjuwayn
+166,Verbenaceae,Sóc Trăng
+167,Rosaceae,Colorado Springs
+168,Juncaginaceae,Waitangi
+169,Rubiaceae,Vanimo
+170,Fabaceae,Shuangjie
+171,Fabaceae,Changkeng
+172,Bignoniaceae,Jequitinhonha
+173,Campanulaceae,Kozakai-chō
+174,Chenopodiaceae,Songgui
+175,Rosaceae,Kuçovë
+176,Onagraceae,Wangkung
+177,Scrophulariaceae,Miaojie
+178,Fabaceae,Wanlongshan
+179,Caryophyllaceae,Lingkou
+180,Brachytheciaceae,La Clotilde
+181,Staphyleaceae,Tafraout
+182,Betulaceae,Shanghang
+183,Fabaceae,Majiao
+184,Fabaceae,Hörby
+185,Cyperaceae,Taishang
+186,Isoetaceae,Montpellier
+187,Orchidaceae,Lezhë
+188,Gesneriaceae,Banjar Batuaji Kaja
+189,Cladoniaceae,Horní Bříza
+190,Asteraceae,Cisewu
+191,Gentianaceae,Jezzîne
+192,Asteraceae,Kezilei
+193,Asteraceae,Etten-Leur
+194,Poaceae,Bromont
+195,Poaceae,Krasne
+196,Orchidaceae,Boisbriand
+197,Ericaceae,Zawichost
+198,Poaceae,Mymensingh
+199,Violaceae,Liulimiao
+200,Solanaceae,Kampungraja
+201,Poaceae,Narvacan
+202,Dryopteridaceae,Szklarska Poręba
+203,Fabaceae,Fuli
+204,Brassicaceae,Vlachovice
+205,Asteraceae,Los Aquijes
+206,Orchidaceae,Sanjō
+207,Asteraceae,Um Jar Al Gharbiyya
+208,Rubiaceae,Xinji
+209,Apocynaceae,Gizo
+210,Cucurbitaceae,Sal’sk
+211,Scrophulariaceae,Jayapura
+212,Fagaceae,Kolbuszowa
+213,Apiaceae,Soledade
+214,Hydrophyllaceae,Sapadun
+215,Acarosporaceae,Guodu
+216,Brassicaceae,Ashbourne
+217,Rosaceae,Peras Ruivas
+218,Fabaceae,Sudimara
+219,Trichotheliaceae,Rabaul
+220,Poaceae,Quintão
+221,Begoniaceae,Angoulême
+222,Araceae,Lechinkay
+223,Malpighiaceae,Novallas
+224,Violaceae,Cartagena
+225,Boraginaceae,Sawahan
+226,Notothyladaceae,Książki
+227,Lycopodiaceae,Lukavice
+228,Scrophulariaceae,Xujia
+229,Liliaceae,Odoyev
+230,Dacampiaceae,Imsida
+231,Poaceae,Guangyi
+232,Iridaceae,Vysokogornyy
+233,Asteraceae,Vakhtan
+234,Apiaceae,Laohugang
+235,Piperaceae,Bhopālwāla
+236,Rosaceae,Rancapanjang
+237,Asteraceae,Kaliuda
+238,Cyperaceae,Mobile
+239,Fabaceae,Naga
+240,Aspleniaceae,Washington
+241,Asteraceae,Emin
+242,Ramalinaceae,Balong Wetan
+243,Uncertain Ascomycota Family,Offa
+244,Asteraceae,Seren
+245,Brachytheciaceae,Rychvald
+246,Thymelaeaceae,Huoxian
+247,Asteraceae,Jardinópolis
+248,Lamiaceae,Cafayate
+249,Splachnaceae,Acharnés
+250,Orchidaceae,Montenegro
+251,Asteraceae,Qinling Jieban
+252,Lamiaceae,Nagrog Wetan
+253,Araceae,Sangiyn Dalay
+254,Poaceae,Magisterial
+255,Najadaceae,Stockholm
+256,Scrophulariaceae,Itapé
+257,Papaveraceae,Bistrinci
+258,Lauraceae,Le Mans
+259,Hydrophyllaceae,Laboulaye
+260,Asteraceae,Skála Oropoú
+261,Scrophulariaceae,Nong Ki
+262,Polygonaceae,Xunqiao
+263,Fabaceae,Rancamaya
+264,Fagaceae,Ngurenrejo
+265,Poaceae,Yongjiu
+266,Brassicaceae,Suvorov
+267,Parmeliaceae,Shināş
+268,Asteraceae,Laslovo
+269,Asteraceae,Taojiahe
+270,Cyperaceae,Rājbirāj
+271,Fabaceae,Necoclí
+272,Lecideaceae,Verdun
+273,Clusiaceae,Gorey
+274,Annonaceae,Massy
+275,Lentibulariaceae,Palauig
+276,Salicaceae,Oepula
+277,Ranunculaceae,Mounlapamôk
+278,Brassicaceae,Xingyuan
+279,Asteraceae,Kuningan
+280,Iridaceae,Huanghua
+281,Fabaceae,Orikum
+282,Rhamnaceae,Kasembon
+283,Cyperaceae,Yamparáez
+284,Caryophyllaceae,Bansko
+285,Asteraceae,Oropesa
+286,Melaspileaceae,Itacoatiara
+287,Poaceae,Sidomulyo
+288,Poaceae,Gorno Orizari
+289,Physciaceae,Irving
+290,Araceae,Chaniá
+291,Fabaceae,Kiraman
+292,Onagraceae,Yamoussoukro
+293,Lamiaceae,Izobil’nyy
+294,Fabaceae,Zungeru
+295,Asteraceae,Windsor
+296,Asteraceae,Štitar
+297,Pontederiaceae,Oeleon
+298,Asteraceae,Pilot Butte
+299,Asteraceae,Nanyuan
+300,Crossosomataceae,Tuchengzi
+301,Brassicaceae,Lindavista
+302,Rhamnaceae,Staryy Cherek
+303,Brassicaceae,Taunggyi
+304,Chenopodiaceae,Březová nad Svitavou
+305,Uncertain Ascomycota Family,Pećigrad
+306,Salicaceae,Chābahār
+307,Convolvulaceae,Brześć Kujawski
+308,Dryopteridaceae,Gaohu
+309,Oleaceae,El Jem
+310,Fissidentaceae,San Vicente
+311,Violaceae,Stockholm
+312,Musaceae,Trambalan
+313,Scrophulariaceae,Dorotea
+314,Polemoniaceae,Vaxholm
+315,Rubiaceae,Longmen
+316,Potamogetonaceae,Erada
+317,Ranunculaceae,San Vicente
+318,Rosaceae,Pułtusk
+319,Physciaceae,Pilang
+320,Rosaceae,Boudinar
+321,Teloschistaceae,Norrahammar
+322,Ranunculaceae,Puerto Montt
+323,Acarosporaceae,Huidong
+324,Poaceae,Saint-Jean-de-Védas
+325,Chenopodiaceae,Babushkin
+326,Rutaceae,Palompon
+327,Loasaceae,Karangjaladri
+328,Pertusariaceae,Huangxikou
+329,Calyceraceae,Muramatsu
+330,Poaceae,Nuevo Berlín
+331,Ericaceae,Nowogard
+332,Onagraceae,Karangpaningal
+333,Ranunculaceae,Whittier
+334,Megalosporaceae,Malaḩ
+335,Saxifragaceae,Richmond
+336,Physciaceae,Kelaniya
+337,Leskeaceae,Cabaritan East
+338,Boraginaceae,San Jose
+339,Asteraceae,Binzhou
+340,Brassicaceae,Khalkhāl
+341,Melastomataceae,Muli
+342,Asteraceae,Krutja e Poshtme
+343,Loasaceae,Nowe
+344,Rhamnaceae,Kalchevaya
+345,Polemoniaceae,Qingguang
+346,Scrophulariaceae,Feicheng
+347,Lamiaceae,Pejibaye
+348,Lecideaceae,Smínthi
+349,Poaceae,Sankera
+350,Fabaceae,Tomay Kichwa
+351,Bacidiaceae,Napanee Downtown
+352,Onagraceae,Jiangcun
+353,Rosaceae,Rožďalovice
+354,Onagraceae,Ban Lŭng
+355,Rosaceae,Zhuangke
+356,Liliaceae,General Vedia
+357,Poaceae,Fengniancun
+358,Fabaceae,Quintães
+359,Lamiaceae,Alvaiázere
+360,Asteraceae,Pulupandan
+361,Fabaceae,Yengiawat
+362,Rosaceae,Tanjungluar
+363,Bignoniaceae,Mimbaan Timur
+364,Pinaceae,Stavropol’
+365,Asteraceae,Raffingora
+366,Scrophulariaceae,Guhuai
+367,Asteraceae,General Alvear
+368,Asteraceae,Jiangkou
+369,Brassicaceae,Banjar Gunungpande
+370,Cyperaceae,Orikum
+371,Rubiaceae,Yangsi
+372,Polygonaceae,Banī Suwayf
+373,Lecanoraceae,Lingmen
+374,Asteraceae,Lafia
+375,Poaceae,Eger
+376,Ulmaceae,Surubim
+377,Araceae,Thị Trấn Thọ Xuân
+378,Crassulaceae,Selce
+379,Lamiaceae,Bayan Tuohai
+380,Asteraceae,Al Maḩfid
+381,Caryophyllaceae,Banfora
+382,Onagraceae,Irati
+383,Solanaceae,Margorejo
+384,Poaceae,Ghormach
+385,Portulacaceae,Acul du Nord
+386,Polemoniaceae,Obanazawa
+387,Lamiaceae,Hougang
+388,Liliaceae,Pouzauges
+389,Cyperaceae,Paarl
+390,Liliaceae,Kulpin
+391,Chenopodiaceae,Pulau Pinang
+392,Poaceae,Guilmaro
+393,Asteraceae,Cintra
+394,Arecaceae,Tyazhinskiy
+395,Piperaceae,Orocuina
+396,Liliaceae,Sergio Osmeña Sr
+397,Asclepiadaceae,Lysogorskaya
+398,Geraniaceae,Kitahama
+399,Melastomataceae,Shigou
+400,Amblystegiaceae,Senglea
+401,Orchidaceae,Yiánnouli
+402,Cyperaceae,Stord
+403,Urticaceae,Campoalegre
+404,Portulacaceae,Santa Inês
+405,Poaceae,Stockholm
+406,Linaceae,Hod HaSharon
+407,Theaceae,Babahoyo
+408,Liliaceae,Shetangpo
+409,Caryophyllaceae,Yanhu
+410,Parmeliaceae,Buenos Aires
+411,Sapotaceae,Urrô
+412,Poaceae,Wlingi
+413,Polygonaceae,Liujiage
+414,Lecanoraceae,Yovon
+415,Asteraceae,Portão
+416,Euphorbiaceae,Wichit
+417,Caryophyllaceae,Kota Trieng
+418,Asteraceae,Huolongping
+419,Asteraceae,Jin’an
+420,Oedipodiaceae,Mont-de-Marsan
+421,Asteraceae,Xiongbei
+422,Brassicaceae,Huishi
+423,Asteraceae,Iguape
+424,Urticaceae,Caballococha
+425,Hymenophyllaceae,Dumaguete
+426,Pteridaceae,Sebedo
+427,Euphorbiaceae,Buenos Aires
+428,Asteraceae,Malausma Kidul
+429,Iridaceae,Gununglajang
+430,Lamiaceae,Cimaragas
+431,Leucodontaceae,Gensi
+432,Thelotremataceae,Nginokrajan
+433,Asteraceae,Miechów Charsznica
+434,Scrophulariaceae,Qingtang
+435,Violaceae,Borzna
+436,Asteraceae,No Kunda
+437,Polemoniaceae,Camlachie
+438,Umbilicariaceae,Cibogo
+439,Fabaceae,Bamban
+440,Amblystegiaceae,Zátor
+441,Cyperaceae,Matamey
+442,Boraginaceae,Luzern
+443,Anacardiaceae,Chengqiao
+444,Asteraceae,Nancheng
+445,Poaceae,Parreira
+446,Liliaceae,Recarei
+447,Araliaceae,Turku
+448,Rutaceae,Sultan Kudarat
+449,Helodiaceae,Xinshi
+450,Asteraceae,Mollebamba
+451,Ericaceae,Thạnh Phú
+452,Annonaceae,Jezzîne
+453,Physciaceae,Minador do Negrão
+454,Fagaceae,Rauco
+455,Polemoniaceae,Poxin
+456,Asteraceae,Jiaozuo
+457,Zingiberaceae,Shangsanji
+458,Poaceae,Lafayette
+459,Elatinaceae,Gonghe
+460,Polygonaceae,Chonchi
+461,Rosaceae,Yulin
+462,Polemoniaceae,Xinming
+463,Fabaceae,Ondores
+464,Asteraceae,Yanagawa
+465,Lycopodiaceae,Xingou
+466,Boraginaceae,Puspajaya
+467,Onagraceae,Hongmei
+468,Celastraceae,Sathing Phra
+469,Parmeliaceae,Obama
+470,Cyperaceae,Markópoulo
+471,Asteraceae,El Pino
+472,Euphorbiaceae,Preston
+473,Pteridaceae,Vygonichi
+474,Lecideaceae,Lyaskovets
+475,Bacidiaceae,Xiaoyan
+476,Asteraceae,Šabac
+477,Fabaceae,Lupo
+478,Piperaceae,Vélizy-Villacoublay
+479,Scrophulariaceae,Mekarsari
+480,Lamiaceae,Bang Krathum
+481,Scrophulariaceae,Mojolampir
+482,Hymenophyllaceae,Bang Mun Nak
+483,Verbenaceae,Wenceslao Escalante
+484,Lycopodiaceae,Jammāl
+485,Euphorbiaceae,Marseille
+486,Brassicaceae,Takatsuki
+487,Geraniaceae,Yuanmou
+488,Melastomataceae,Zhangshui
+489,Asteraceae,Ambatondrazaka
+490,Dryopteridaceae,Los Fresnos
+491,Poaceae,Severoural’sk
+492,Liliaceae,Kuantan
+493,Polygonaceae,El Refugio
+494,Polygonaceae,Creighton
+495,Boraginaceae,Bakov nad Jizerou
+496,Rubiaceae,Qarāwat Banī Zayd
+497,Orchidaceae,Soriano
+498,Campanulaceae,San Nicolás
+499,Rosaceae,Gelemso
+500,Rosaceae,Aghajari
+501,Plumbaginaceae,Arevshat
+502,Juncaginaceae,Alcaldedíaz
+503,Papaveraceae,Gusong
+504,Lamiaceae,Łętownia
+505,Aspleniaceae,Lowotukan
+506,Rosaceae,Choma
+507,Apiaceae,Banikoara
+508,Orchidaceae,Saint-Quentin-en-Yvelines
+509,Ochnaceae,Bralin
+510,Fabaceae,Zbiroh
+511,Lamiaceae,Granville
+512,Fabaceae,Al Qaţn
+513,Olacaceae,Talipan
+514,Rutaceae,Oujiangcha
+515,Caryophyllaceae,Santa Ana
+516,Euphorbiaceae,Palmasola
+517,Caprifoliaceae,Gävle
+518,Boraginaceae,Heshan
+519,Pinaceae,Tân Kỳ
+520,Pittosporaceae,Sacapulas
+521,Rosaceae,Varadero
+522,Myrtaceae,Paris 08
+523,Violaceae,Novoye Devyatkino
+524,Scrophulariaceae,Xujiadian
+525,Poaceae,Miguel Hidalgo
+526,Violaceae,Lárdos
+527,Poaceae,Minshan
+528,Convolvulaceae,San Luis Jilotepeque
+529,Ditrichaceae,Las Flores
+530,Caryophyllaceae,Kétou
+531,Asteraceae,Neiafu
+532,Liliaceae,Ūdalah
+533,Porpidiaceae,Maumere
+534,Lamiaceae,Rzepiennik Strzyżewski
+535,Fabaceae,San Miguel
+536,Pteridaceae,Vidče
+537,Rutaceae,Ankola
+538,Asteraceae,Cavinti
+539,Onagraceae,Sancha
+540,Ranunculaceae,Jiaxian Chengguanzhen
+541,Boraginaceae,Reiko
+542,Onagraceae,Dalmacio Vélez Sársfield
+543,Polypodiaceae,Kihancha
+544,Poaceae,Fuerte
+545,Asteraceae,Guyi
+546,Physciaceae,Tuymazy
+547,Ranunculaceae,Sambir
+548,Asteraceae,Manalongon
+549,Asteraceae,Kharagauli
+550,Liliaceae,Nekhayevskiy
+551,Melastomataceae,Nuuk
+552,Liliaceae,El Olivar
+553,Annonaceae,Hualmay
+554,Letrouitiaceae,Sarrazola
+555,Solanaceae,Černelavci
+556,Orthotrichaceae,Randuagung
+557,Asteraceae,Junglinster
+558,Orchidaceae,Honjō
+559,Poaceae,Xinjie
+560,Fabaceae,Mekon
+561,Liliaceae,Khān Arnabah
+562,Rosaceae,Kampinos
+563,Malvaceae,Lac du Bonnet
+564,Liliaceae,Peuteuy
+565,Simaroubaceae,Jelsa
+566,Brassicaceae,Puerto Ayacucho
+567,Cyperaceae,Muang Phôn-Hông
+568,Myrtaceae,Jatisari
+569,Verrucariaceae,Salt Lake City
+570,Poaceae,Tangzi
+571,Poaceae,Chicago
+572,Cyperaceae,Vorob’yovo
+573,Cyperaceae,Babirik
+574,Fabaceae,Liulang
+575,Asteraceae,Mafra
+576,Ranunculaceae,L’vovskiy
+577,Euphorbiaceae,Lacdayan
+578,Malpighiaceae,Nalinggou
+579,Cyperaceae,Miastko
+580,Juncaceae,Arraial do Cabo
+581,Hydrophyllaceae,Pryazovs’ke
+582,Rutaceae,Limbalod
+583,Sphaerophoraceae,Mafra
+584,Blechnaceae,Mogilany
+585,Gesneriaceae,Zelenogradsk
+586,Liliaceae,Campaka
+587,Magnoliaceae,Hwado
+588,Poaceae,Masatepe
+589,Lamiaceae,Cergy-Pontoise
+590,Rosaceae,Ḩabīl al Jabr
+591,Ditrichaceae,Caringin
+592,Gomphillaceae,Ciudian
+593,Pannariaceae,Huatan
+594,Rosaceae,Sokolovo
+595,Cyperaceae,Puerto Aisén
+596,Pittosporaceae,Levallois-Perret
+597,Uncertain Ascomycota Family,Guamal
+598,Asteraceae,Kiten
+599,Platanaceae,Fonte Boa
+600,Ericaceae,Sua
+601,Verbenaceae,Évosmos
+602,Capparaceae,Suru
+603,Ulvaceae,Gaoua
+604,Saxifragaceae,Bauru
+605,Brassicaceae,Xinmin
+606,Orchidaceae,Khān Neshīn
+607,Malvaceae,Yongjiahe
+608,Oleaceae,Camilo Aldao
+609,Loasaceae,Calape
+610,Pottiaceae,Gudja
+611,Poaceae,São Pedro do Estoril
+612,Atheliaceae,Zengtian
+613,Opegraphaceae,Lakateng
+614,Betulaceae,Kolpny
+615,Urticaceae,Qingshandi
+616,Boraginaceae,Créteil
+617,Alismataceae,Lyon
+618,Chenopodiaceae,Ninh Giang
+619,Lamiaceae,Grodzisk Mazowiecki
+620,Hydrophyllaceae,Embu
+621,Asclepiadaceae,Maha Sarakham
+622,Cyperaceae,Aracati
+623,Cyperaceae,Sandnes
+624,Parmeliaceae,Pavlovka
+625,Poaceae,Karangmelok
+626,Rosaceae,Kraśnik
+627,Fabaceae,Piranshahr
+628,Fabaceae,Maliana
+629,Sphagnaceae,Mesquite
+630,Crassulaceae,Nizwá
+631,Physciaceae,Kiikala
+632,Asteraceae,Neiafu
+633,Ericaceae,San Luis
+634,Agavaceae,Sayaxché
+635,Convolvulaceae,Billa
+636,Liliaceae,Pego Longo
+637,Cladoniaceae,Karlskoga
+638,Cyperaceae,Landskrona
+639,Asteraceae,Shinshiro
+640,Asteraceae,Jiusi
+641,Liliaceae,Vila Velha de Ródão
+642,Poaceae,Samoš
+643,Gentianaceae,Futian
+644,Poaceae,Gasi
+645,Poaceae,Warsaw
+646,Chrysobalanaceae,Qijiang
+647,Polemoniaceae,Botucatu
+648,Euphorbiaceae,Damayan
+649,Fissidentaceae,Chavdar
+650,Scrophulariaceae,Xarrë
+651,Asteraceae,Korba
+652,Ranunculaceae,Amashca
+653,Asteraceae,Tinabogan
+654,Fabaceae,Rožďalovice
+655,Asteraceae,Polen
+656,Lycopodiaceae,Blobo
+657,Verbenaceae,Luowan
+658,Violaceae,Huilong
+659,Brassicaceae,Daban
+660,Asteraceae,Nagcarlan
+661,Caryophyllaceae,Suban
+662,Asteraceae,Biny Selo
+663,Hypnaceae,Ústí nad Labem
+664,Campanulaceae,Kota Kinabalu
+665,Lamiaceae,Charqueadas
+666,Poaceae,Mezinovskiy
+667,Asteraceae,Ddmashen
+668,Fabaceae,Allen
+669,Asteraceae,Shirokovskiy
+670,Pottiaceae,Thị Trấn Yên Cát
+671,Parmeliaceae,Purral
+672,Apiaceae,Cibojong
+673,Solanaceae,Pérama
+674,Gesneriaceae,Chitose
+675,Cyperaceae,Viga
+676,Fabaceae,Gravataí
+677,Trypetheliaceae,Paitan
+678,Juncaceae,Yingtou
+679,Malvaceae,Donduşeni
+680,Asteraceae,Maisí
+681,Rosaceae,Yermish’
+682,Apiaceae,Farsta
+683,Lecanoraceae,Rincón
+684,Rosaceae,Bielawa
+685,Dicranaceae,Dazaifu
+686,Malpighiaceae,Pombal
+687,Alectoriaceae,Villa Dolores
+688,Dryopteridaceae,Arada
+689,Poaceae,Choropampa
+690,Hamamelidaceae,Bondokodi
+691,Salicaceae,Lyon
+692,Mniaceae,Zhonghouhe
+693,Lamiaceae,Kotabaru
+694,Loasaceae,Jacobina
+695,Poaceae,Xinhua
+696,Bryaceae,Cipari
+697,Thelotremataceae,Bertelhe
+698,Celastraceae,Ciilat
+699,Rubiaceae,Bergamo
+700,Asteraceae,Karanganyar
+701,Saxifragaceae,Emiliano Zapata
+702,Poaceae,Maungatapere
+703,Cactaceae,Fushan
+704,Saxifragaceae,Banatska Topola
+705,Ophioparmaceae,Wufeng
+706,Solanaceae,Kalilangan
+707,Myrtaceae,Kijini
+708,Apiaceae,Valencia
+709,Poaceae,Campo Alegre
+710,Rutaceae,Linamon
+711,Asteraceae,Thị Trấn Hà Trung
+712,Scrophulariaceae,Comilla
+713,Bignoniaceae,Örebro
+714,Fabaceae,Guilherand-Granges
+715,Poaceae,Hedong
+716,Scrophulariaceae,Kelasuri
+717,Physciaceae,Xinshui
+718,Acarosporaceae,Oja
+719,Liliaceae,Aubagne
+720,Dioscoreaceae,El Escanito
+721,Cactaceae,Waitangi
+722,Asclepiadaceae,Dongming
+723,Onagraceae,Mpraeso
+724,Onagraceae,Sanhe
+725,Apiaceae,Praia de Mira
+726,Hymeneliaceae,Wencheng
+727,Gesneriaceae,Lagoa Vermelha
+728,Cupressaceae,Changuinola
+729,Orchidaceae,Baisha
+730,Apiaceae,Issy-les-Moulineaux
+731,Asteraceae,Chendian
+732,Poaceae,Keren
+733,Orchidaceae,Asheville
+734,Ranunculaceae,Murcki
+735,Juglandaceae,Lesuhe
+736,Asteraceae,Saskatoon
+737,Lamiaceae,Kuching
+738,Blechnaceae,Huacheng
+739,Orchidaceae,Hairag
+740,Orchidaceae,Nārāyanganj
+741,Scrophulariaceae,Dulce Nombre
+742,Asteraceae,Nar'yan-Mar
+743,Uncertain Ascomycota Family,Vänersborg
+744,Grammitidaceae,Yukuhashi
+745,Urticaceae,Maindang
+746,Saxifragaceae,Dengtang
+747,Caryophyllaceae,Tsetsegnuur
+748,Viscaceae,Belyye Stolby
+749,Physciaceae,Taiping
+750,Asteraceae,Media Luna
+751,Viscaceae,Mahébourg
+752,Cactaceae,Dhanot
+753,Euphorbiaceae,Porsgrunn
+754,Fabaceae,Trà Vinh
+755,Rubiaceae,Curibaya
+756,Salicaceae,Sanhe
+757,Orchidaceae,Santa Magdalena
+758,Cyperaceae,Lubasz
+759,Fontinalaceae,Zürich
+760,Boraginaceae,Passos
+761,Pottiaceae,Chemnitz
+762,Rosaceae,Ishëm
+763,Polygonaceae,Sukhothai
+764,Saxifragaceae,Staryy Merchyk
+765,Iridaceae,Pasirtujuhpuluh
+766,Polemoniaceae,Jiangti
+767,Polygonaceae,Adelaide Mail Centre
+768,Poaceae,Aiximan
+769,Fabaceae,Solna
+770,Boraginaceae,Horní Jelení
+771,Fumariaceae,Wulong
+772,Cactaceae,Luruaco
+773,Asclepiadaceae,Shijiao
+774,Lecideaceae,Lamalewar
+775,Clavariaceae,Naples
+776,Lecideaceae,Baniachang
+777,Verbenaceae,Gabao
+778,Heliconiaceae,Franca
+779,Cupressaceae,Klenica
+780,Boraginaceae,Karlstad
+781,Grimmiaceae,Bahui
+782,Rosaceae,Al Kittah
+783,Apocynaceae,Vallenar
+784,Pottiaceae,Leribe
+785,Poaceae,La Goulette
+786,Asteraceae,Kotlovka
+787,Lamiaceae,Marttila
+788,Ulmaceae,Charlottetown
+789,Poaceae,Changshengqiao
+790,Ericaceae,Qigzhi
+791,Euphorbiaceae,Rio Meão
+792,Polygonaceae,Helsingborg
+793,Costaceae,Sumqayıt
+794,Caryophyllaceae,Bandarbeyla
+795,Brassicaceae,Buri
+796,Ranunculaceae,Esik
+797,Lamiaceae,Chartres
+798,Asteraceae,Tiko
+799,Liliaceae,Cileles
+800,Verbenaceae,Odeleite
+801,Lamiaceae,Saatlı
+802,Asteraceae,Zihu
+803,Fabaceae,Monze
+804,Caryophyllaceae,La Victoria
+805,Asteraceae,Kudang
+806,Collemataceae,Xilong
+807,Hydrocharitaceae,Padas
+808,Loganiaceae,Olympia
+809,Fabaceae,Bhāndāria
+810,Piperaceae,Antsirabe
+811,Cucurbitaceae,Montemor-o-Velho
+812,Fabaceae,Adassil
+813,Grimmiaceae,Dongfeng
+814,Moraceae,Moyuan
+815,Asteraceae,Banjar Pedawa
+816,Lauraceae,Tamuning-Tumon-Harmon Village
+817,Myrsinaceae,Sipoholon
+818,Grammitidaceae,Moch
+819,Timmiaceae,Goúrnes
+820,Cyperaceae,Hörby
+821,Styracaceae,Hedi
+822,Rubiaceae,Xiazhai
+823,Leskeaceae,Samaro
+824,Pinaceae,Tours
+825,Polemoniaceae,Ondangwa
+826,Fabaceae,Tanshan
+827,Scrophulariaceae,Taganskiy
+828,Crassulaceae,Majia
+829,Liliaceae,Brusyanka
+830,Poaceae,Shimen
+831,Amaranthaceae,Shanyang
+832,Fabaceae,Regimin
+833,Brassicaceae,Malaga
+834,Polemoniaceae,Bouna
+835,Pottiaceae,Ewarton
+836,Ranunculaceae,Nykarleby
+837,Flacourtiaceae,Evxinoúpolis
+838,Cyperaceae,Balogo
+839,Iridaceae,Pinsk
+840,Euphorbiaceae,Fangcun
+841,Myrtaceae,Erhe
+842,Joinvilleaceae,Wuyang
+843,Asteraceae,Baganga
+844,Hydrophyllaceae,Arendal
+845,Cladoniaceae,Sacramento
+846,Rubiaceae,Wushan
+847,Fuscideaceae,Bwizibwera
+848,Commelinaceae,Zamora
+849,Hymeneliaceae,Morelos
+850,Fabaceae,Alepoú
+851,Callicostaceae,Pitomača
+852,Fabaceae,Huangpu
+853,Cyperaceae,Barkā’
+854,Lobariaceae,Palampal
+855,Fabaceae,Pančevo
+856,Polygonaceae,Moglicë
+857,Cyperaceae,Marcabamba
+858,Orchidaceae,Envira
+859,Physciaceae,Sanshandao
+860,Malpighiaceae,Jiachuan
+861,Fabaceae,Oslo
+862,Poaceae,Korenëvo
+863,Collemataceae,Tatou
+864,Fabaceae,Markaz Mudhaykirah
+865,Asteraceae,Fuerte
+866,Chenopodiaceae,Krajan Alastengah
+867,Mniaceae,Bida
+868,Scrophulariaceae,Skellefteå
+869,Fabaceae,Kampungladang
+870,Caryophyllaceae,Prokhladnyy
+871,Asteraceae,Cankuzo
+872,Malvaceae,Phunphin
+873,Rosaceae,Tegalsari
+874,Fabaceae,Pirapozinho
+875,Tetraphidaceae,Inari
+876,Asteraceae,Dzel
+877,Brassicaceae,Abonnema
+878,Ranunculaceae,Dongtuan
+879,Pinaceae,Gložan
+880,Liliaceae,Majan
+881,Lecanoraceae,A dos Negros
+882,Fabaceae,Casigua El Cubo
+883,Moraceae,Welisara
+884,Ericaceae,Zhishan
+885,Physciaceae,Xinlong
+886,Verrucariaceae,Kara Suu
+887,Strigulaceae,Mandeni
+888,Fabaceae,Jiuxian
+889,Bacidiaceae,Livadiya
+890,Asteraceae,Sacapulas
+891,Santalaceae,Krojo
+892,Poaceae,Hengdaohezi
+893,Asteraceae,Phak Hai
+894,Scrophulariaceae,Changning
+895,Fabaceae,Mizdah
+896,Fabaceae,Santa Valha
+897,Apiaceae,Mutis
+898,Orthotrichaceae,Ningyang
+899,Rosaceae,Salon-de-Provence
+900,Lichinaceae,Ryjewo
+901,Rutaceae,Huancarqui
+902,Physciaceae,Tacoma
+903,Poaceae,Neepawa
+904,Cyperaceae,Delaware
+905,Ulmaceae,Maliana
+906,Stereocaulaceae,Huangshi
+907,Polygonaceae,Mantes-la-Jolie
+908,Grimmiaceae,Gaspra
+909,Lamiaceae,Wierzchucino
+910,Poaceae,Aix-en-Provence
+911,Aspleniaceae,Lubukalung
+912,Asteraceae,Anopog
+913,Gentianaceae,Gradec
+914,Hydrangeaceae,Mueang Phuket
+915,Gentianaceae,Arneiro
+916,Onagraceae,Lianglin
+917,Clusiaceae,Shuanghe
+918,Rubiaceae,Kaduheuleut
+919,Orobanchaceae,Jiefu
+920,Geraniaceae,Fasito‘outa
+921,Isoetaceae,Yufrus
+922,Pyrenulaceae,Ballymun
+923,Santalaceae,Joaquín V. González
+924,Campanulaceae,Niejiahe
+925,Solanaceae,Tumaco
+926,Gentianaceae,Paris 13
+927,Caryophyllaceae,Santana do Ipanema
+928,Asteraceae,Quốc Oai
+929,Eriocaulaceae,Masuda
+930,Asteraceae,Noramarg
+931,Liliaceae,Baishui
+932,Fabaceae,Bolobo
+933,Malpighiaceae,Nova Pazova
+934,Asteraceae,Jorf
+935,Scrophulariaceae,San Buenaventura
+936,Brassicaceae,Kuala Tuha
+937,Violaceae,Vrakháti
+938,Acanthaceae,Erandique
+939,Fabaceae,Cimadang
+940,Graphidaceae,Bergvliet
+941,Juncaceae,Songbo
+942,Fabaceae,Guéret
+943,Hippocastanaceae,Tilmi
+944,Solanaceae,Ýdra
+945,Asteraceae,Morteros
+946,Boraginaceae,Canedo
+947,Asteraceae,Jimenez
+948,Sterculiaceae,Los Córdobas
+949,Polygonaceae,Saint-Flour
+950,Liliaceae,Mascouche
+951,Onagraceae,Az Zubaydāt
+952,Grimmiaceae,Krasnotorka
+953,Apocynaceae,Heqian
+954,Boraginaceae,Mātli
+955,Fabaceae,Duisburg
+956,Polemoniaceae,Anjozorobe
+957,Capparaceae,Rancaseneng
+958,Hydrophyllaceae,Koesan
+959,Roccellaceae,Taisen-ri
+960,Asteraceae,Kota Bharu
+961,Uncertain Ascomycota Family,Vigia
+962,Cactaceae,Bolyarovo
+963,Poaceae,Michurinskoye
+964,Pedaliaceae,Naguilian
+965,Poaceae,Sancha
+966,Liliaceae,Paris 12
+967,Scrophulariaceae,Columbia
+968,Asteraceae,Sunja
+969,Asteraceae,Songwon
+970,Fabaceae,Wichita
+971,Ochnaceae,Leipzig
+972,Cyperaceae,Banawang
+973,Scrophulariaceae,Ağdam
+974,Grimmiaceae,Wucheng
+975,Pinaceae,Tall Ḩamīs
+976,Rosaceae,Karibib
+977,Chenopodiaceae,San Pedro
+978,Fabaceae,Mesker-Yurt
+979,Fabaceae,Sijunjung
+980,Brassicaceae,La Virginia
+981,Apiaceae,Khirdalan
+982,Salicaceae,Handa
+983,Heliconiaceae,Cherëmushki
+984,Papaveraceae,Yuhe
+985,Polygalaceae,Camiri
+986,Dryopteridaceae,Aix-en-Provence
+987,Vittariaceae,Song’ao
+988,Asteraceae,Palanit
+989,Asteraceae,Imaan
+990,Asteraceae,Šipovo
+991,Malpighiaceae,Jaguaribe
+992,Dennstaedtiaceae,Matelândia
+993,Collemataceae,Radvanice
+994,Saxifragaceae,Shihudang
+995,Lamiaceae,Baimaqiao
+996,Fabaceae,Palkovice
+997,Euphorbiaceae,Osiek nad Notecią
+998,Fabaceae,Linjiang
+999,Fabaceae,Ngrayun
+1000,Clusiaceae,Xibër-Murrizë
