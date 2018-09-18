@@ -13,7 +13,7 @@ BOT_NAME = 'dss_diario'
 
 SPIDER_MODULES = ['dss_diario.spiders']
 NEWSPIDER_MODULE = 'dss_diario.spiders'
-
+FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'dss_diario (+http://www.yourdomain.com)'

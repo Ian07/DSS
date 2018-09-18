@@ -11,4 +11,9 @@ import scrapy
 class DssDiarioItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    id = scrapy.Field()
+    categoria = scrapy.Field()
+    titulo = scrapy.Field()
+    copete = scrapy.Field()
+    cuerpo = scrapy.Field()
+    hits = scrapy.Field()
