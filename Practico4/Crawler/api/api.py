@@ -1,26 +1,42 @@
-import flask
+from flask import Flask
+from flask import jsonify
+from flask import request
+from flask_pymongo import PyMongo
+import json
 
-app = flask.Flask(__name__)
-app.config["DEBUG"] = True
+app = Flask(__name__)
 
-#Datos de prueba
-noticias = [
-    {'id': 0,
-     'title': 'Se ignagura el vuelo Gaiman - Dolavon',
-     'seccion': 'Provincial',
-     'nro_visitas': 1},
-    {'id': 1,
-     'title': 'Se ignagura el vuelo Gaiman - Dolavon',
-     'seccion': 'Provincial',
-     'nro_visitas': 2},
-    {'id': 2,
-     'title': 'Se ignagura el vuelo Gaiman - Dolavon',
-     'seccion': 'Provincial',
-     'nro_visitas': 3}
-]
+app.config['MONGO_DBNAME'] = 'diario'
+app.config['MONGO_URI'] = 'mongodb://localhost:27017/diario'
 
-@app.route('/', methods=['GET'])
-def home():
-    return "<h1>Distant Reading Archive</h1><p>This site is a prototype API for distant reading of science fiction novels.</p>"
+mongo = PyMongo(app)
 
-app.run()
+@app.route('/noticias/', methods=['GET'])
+def get_noticias():
+  noticia = mongo.db.noticia
+  output = []
+  for n in noticia.find():
+    output.append({'id' : n['id'], 'categoria':n['categoria'], 'titulo' : n['titulo'], 'cuerpo':n['cuerpo'], 'hits':n['hits']})
+  return json.dumps(output,ensure_ascii=False)
+
+@app.route('/noticias/<id>', methods=['GET'])
+def get_noticia(id):
+  noticia = mongo.db.noticia
+  n = noticia.find_one({'id' : int(id)})
+  if n:
+    output = {'id' : n['id'], 'categoria':n['categoria'],  'titulo' : n['titulo'], 'cuerpo':n['cuerpo'], 'hits':n['hits']}
+  else:
+    output = "No existe esa noticia"
+  return json.dumps(output,ensure_ascii=False)
+
+@app.route('/noticias/categoria/<categoria>/', methods=['GET'])
+def get_noticias_categoria(categoria):
+    noticia = mongo.db.noticia
+    output = []
+    for n in noticia.find({'categoria': categoria.upper()}):
+        output.append({'id' : n['id'], 'categoria':n['categoria'], 'titulo' : n['titulo'], 'cuerpo':n['cuerpo'], 'hits':n['hits']})
+    return json.dumps(output,ensure_ascii=False)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

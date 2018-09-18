@@ -10,6 +10,8 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'dss_diario'
+LOG_LEVEL = 'WARNING'
+
 
 SPIDER_MODULES = ['dss_diario.spiders']
 NEWSPIDER_MODULE = 'dss_diario.spiders'
