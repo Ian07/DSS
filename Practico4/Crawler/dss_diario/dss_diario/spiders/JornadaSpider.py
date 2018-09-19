@@ -27,8 +27,6 @@ class JornadaSpider(scrapy.Spider):
         yield item
 
 
-
-
     def parse_seccion(self, response):
         noticias_importantes_str = '//div[re:test(@id, "ContentPlaceHolder1_home_bloque_seccion_RP_Bloque_\d_pnl_Titulo_\d$")]//a/@href'
         noticias_secundarias_str = '//a[re:test(@id, "ContentPlaceHolder1_RP_Noticias_hl_Titulo_\d$")]/@href'
