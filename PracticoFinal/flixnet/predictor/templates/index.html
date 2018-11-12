@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Bootstrap Theme Company Page</title>
+  <title>FLIXNET</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -30,22 +30,31 @@
 <div class="jumbotron text-center">
   <h1>FLIXNET</h1> 
   <p>Nosotros lo encontramos</p> 
-  <form class="form-inline">
+  <form class="form-inline" method="post" action="{% url 'vista' %}">
+      {% csrf_token %}
     <div class="input-group">
-      <input type="email" class="form-control" size="50" placeholder="Pelicula" required>
+      <input class="form-control" size="70" id="entrada_buscar" placeholder="Pelicula ~ Nombre de usuario" name="entrada" required>
       <div class="input-group-btn">
-        <button type="button" class="btn btn-danger">Buscar</button>
+        <button type="submit" class="btn btn-danger">Buscar</button>
       </div>
+    </div>
+    <br>
+    <br>
+    <div style="display: inline-block">
+        <input style="height: 9px" type="checkbox" name="contenido" value="1"> Modelo por Contendio
+        <input style="height: 9px" type="checkbox" name="contenido" value="2"> Modelo Colaborativo  
+        <input style="height: 9px" type="checkbox" name="contenido" value="3"> Red Neuronal
     </div>
   </form>
 </div>
 
 <!-- Container (About Section) -->
 <div class="container-fluid">
-  <h2>About Company Page</h2>
-  <h4>Lorem ipsum..</h4>      
-  <p>Lorem ipsum..</p>
-  <button class="btn btn-default btn-lg">Get in Touch</button>
+  <h2>Peliculas Recomendadas</h2>
+  {% for peli in pelis %}
+    <p>{{peli}}</p>  
+  {% endfor %}
+  
 </div>
 
 <div class="container-fluid bg-grey">
