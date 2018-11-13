@@ -50,7 +50,7 @@
 
 <div class="container-fluid bg-grey">
     <div class="container">
-        <h2>Carousel Example</h2>
+        <h2>Recomendacion</h2>
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <!-- Indicators -->
           <ol class="carousel-indicators">
@@ -62,13 +62,21 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
             {% for peli in pelis%}
+              {% if forloop.first %}
               <div class="item active">
-                <img src="{{peli.1}}" alt="los_vengadores" style="width:100%;">
+                <img src="{{peli.1}}" alt="peli" style="padding-left: 35%; height: 20%; width:60%;">
                 <div class="carousel-caption">
                   <h3>{{peli.0}}</h3>
-                  <p>LA is always so much fun!</p>
                 </div>
               </div>
+              {% else %}
+              <div class="item">
+                <img src="{{peli.1}}" alt="peli" style="padding-left: 35%; height: 20%; width:60%;">
+                <div class="carousel-caption">
+                  <h3>{{peli.0}}</h3>
+                </div>
+              </div>
+              {% endif %}
             {% endfor %}
           </div>
       
