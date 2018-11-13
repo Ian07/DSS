@@ -6,61 +6,57 @@ import math
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy import sparse
 import operator
+from django import template
+from bs4 import BeautifulSoup
+from urllib.request import urlopen
+import imdb
 
+def get_list_urls(df):
+    
+    pelis = []
 
-
-def dot_product(vector_1, vector_2):
-    return sum([ i*j for i,j in zip(vector_1, vector_2)])
+    for index, row in df.iterrows():
+        # Creamos el objeto que se usa para 
+        ia = imdb.IMDb() # by default access the web.
+        # Buscamos un peli por su nombre
+        movie = ia.get_movie(row['imdbId'])
+        # para cada peli vamos imprimir la URL de su poster
+        page = urlopen(ia.get_imdbURL(movie))
+        soup = BeautifulSoup(page, features='lxml')
+        cover_div = soup.find(attrs={"class" : "poster"})
+        url = (cover_div.find('img'))['src']
+        peli = [row['title'],url]
+        pelis.append(peli)
+    return pelis
 
 def cosine_measure(v1, v2): 
     return cosine_similarity(np.asmatrix(v1),np.asmatrix(v2))
 
-def get_movie_score(movie_features, user_preferences):
-    return cosine_measure(movie_features, user_preferences)[0][0]
+def get_movie_score(movie_features, peli_features):
+    return cosine_measure(movie_features, peli_features)[0][0]
 
-def get_movie_recommendations(user_preferences, n_recommendations):
+def get_movie_recommendations_content(categorias, df_movies, peli_features, n_recommendations):
     #metemos una columna al dataset movies_df con la puntuacion calculada para el usuario
     for i in range(len(df_movies.index)):
-        df_movies.loc[i,'score'] = get_movie_score(df_movies.loc[i][categorias].values,jumanji_features.values)
-    return df_movies.sort_values(by=['score'], ascending=False)['title'][:n_recommendations]
+        df_movies.loc[i,'score'] = get_movie_score(df_movies.loc[i][categorias].values,peli_features.values)
+    df_rankeado = df_movies.sort_values(by=['score'], ascending=False)
+    df_links = pd.read_csv("static/ml-latest-small/links.csv",sep=",")
+    df_recomendacion = pd.merge(df_rankeado, df_links, on='movieId')[['title', 'imdbId']]
+    return df_recomendacion[:n_recommendations]
     
 
-
 #Recomendacion por modelo por conenido (similitud de coseno)
-def por_contenido():
+def por_contenido(pelicula):
     df_movies = pd.read_csv("static/ml-latest-small/movies.csv",sep=",")
     df_movies = pd.concat([df_movies, df_movies.genres.str.get_dummies(sep='|')], axis=1)
     categorias = df_movies.columns[3:]
-    df_movies.loc[1]
-    user_preferences = OrderedDict(zip(categorias, []))
 
-    user_preferences['Action'] = 1
-    user_preferences['Adventure'] = 1
-    user_preferences['Animation'] = 1
-    user_preferences["Children's"] = 1
-    user_preferences["Comedy"] = 1
-    user_preferences['Crime'] = 1
-    user_preferences['Documentary'] = 1
-    user_preferences['Drama'] = 1
-    user_preferences['Fantasy'] = 1
-    user_preferences['Film-Noir'] = 1
-    user_preferences['Horror'] = 5
-    user_preferences['Musical'] = 1
-    user_preferences['Mystery'] = 1
-    user_preferences['Romance'] = 1
-    user_preferences['Sci-Fi'] = 1
-    user_preferences['War'] = 1
-    user_preferences['Thriller'] = 1
-    user_preferences['Western'] = 1
+    #peli_features = df_movies.loc[df_movies['title'].str.contains('Toy Story (1995)')][:1][categorias]
+    peli_features = df_movies.loc[1][categorias]
 
-    jumanji_features = df_movies.loc[1][categorias]
+    pelis_recomendadas = get_movie_recommendations_content(categorias, df_movies, peli_features, 1)
 
-    jumanji_features.values
-
-
-    pelis_recomendadas = get_movie_recommendations(user_preferences, 20)
-
-    return pelis_recomendadas
+    return get_list_urls(pelis_recomendadas)
 
 #--------------------------------------------------------------------------------------------#
 
@@ -99,12 +95,6 @@ def colaborativo(usuario):
     #correlación de Pearson(PMCC) 
     corr_matrix = np.corrcoef(ratings_mtx_df.T)
     corr_matrix.shape
-    """
-    favoured_movie_title = 'Batman Forever (1995)'
-    favoured_movie_index = list(movie_index).index(favoured_movie_title)
-    P = corr_matrix[favoured_movie_index]
-    list(movie_index[(P>0.4) & (P<1.0)])
-    """
     #Recomendacion para el usuario
     sample_user = usuario #Numero de user 
     recomendacion_usuario = df_ratings[df_ratings.userId==sample_user].sort_values(by=['rating'], ascending=False)
@@ -115,6 +105,7 @@ def colaborativo(usuario):
 
     df_recomendacion = pd.merge(recomendacion_usuario, df_links, on='movieId')[['title', 'imdbId']]
 
+    return get_list_urls(df_recomendacion[:1])
 
  #--------------------------------------------------------------------------------------------#
 
@@ -132,7 +123,9 @@ def vista(request):
         peli_idUser = request.POST.get('entrada', False)
         modelo = int(request.POST.get('contenido', False))
         if modelo == 1:
-            pass
+            print("ENTRE2")
+            pelis = por_contenido(str(peli_idUser))
+            print(pelis)
         elif modelo == 2:
             print("ENTRE")
             pelis = colaborativo(int(peli_idUser))
@@ -141,5 +134,5 @@ def vista(request):
             pass
 
     else:
-        pass
+        pelis = []
     return render(request, 'index.html', {'pelis': pelis})
