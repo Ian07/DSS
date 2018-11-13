@@ -51,10 +51,10 @@ def por_contenido(pelicula):
     df_movies = pd.concat([df_movies, df_movies.genres.str.get_dummies(sep='|')], axis=1)
     categorias = df_movies.columns[3:]
 
-    #peli_features = df_movies.loc[df_movies['title'].str.contains('Toy Story (1995)')][:1][categorias]
-    peli_features = df_movies.loc[1][categorias]
+    peli_features = df_movies.loc[df_movies['title'].str.contains('Toy Story')][:1][categorias]
+    #peli_features = df_movies.loc[1][categorias]
 
-    pelis_recomendadas = get_movie_recommendations_content(categorias, df_movies, peli_features, 1)
+    pelis_recomendadas = get_movie_recommendations_content(categorias, df_movies, peli_features, 3)
 
     return get_list_urls(pelis_recomendadas)
 
@@ -105,7 +105,7 @@ def colaborativo(usuario):
 
     df_recomendacion = pd.merge(recomendacion_usuario, df_links, on='movieId')[['title', 'imdbId']]
 
-    return get_list_urls(df_recomendacion[:1])
+    return get_list_urls(df_recomendacion[:3])
 
  #--------------------------------------------------------------------------------------------#
 
