@@ -10,22 +10,19 @@ from django import template
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import imdb
+from keras.models import load_model
+from keras.optimizers import Adam
+import os.path
+from flixnet.settings import BASE_DIR
 
 def get_list_urls(df):
-    
     pelis = []
-
     for index, row in df.iterrows():
-        # Creamos el objeto que se usa para 
-        ia = imdb.IMDb() # by default access the web.
-        # Buscamos un peli por su nombre
-        movie = ia.get_movie(row['imdbId'])
-        # para cada peli vamos imprimir la URL de su poster
-        page = urlopen(ia.get_imdbURL(movie))
-        soup = BeautifulSoup(page, features='lxml')
-        cover_div = soup.find(attrs={"class" : "poster"})
-        url = (cover_div.find('img'))['src']
-        peli = [row['title'],url]
+        nombre_archivo = "posters/{}.0.jpg".format(row['imdbId'])
+        if os.path.isfile(BASE_DIR+ "/static/" +nombre_archivo):
+            peli = [row['title'],nombre_archivo]
+        else:
+            peli = [row['title'],"posters/sin_poster.jpg"]
         pelis.append(peli)
     return pelis
 
@@ -51,10 +48,10 @@ def por_contenido(pelicula):
     df_movies = pd.concat([df_movies, df_movies.genres.str.get_dummies(sep='|')], axis=1)
     categorias = df_movies.columns[3:]
 
-    peli_features = df_movies.loc[df_movies['title'].str.contains('Toy Story')][:1][categorias]
+    peli_features = df_movies.loc[df_movies['title'].str.contains(pelicula)][:1][categorias]
     #peli_features = df_movies.loc[1][categorias]
 
-    pelis_recomendadas = get_movie_recommendations_content(categorias, df_movies, peli_features, 3)
+    pelis_recomendadas = get_movie_recommendations_content(categorias, df_movies, peli_features, 10)
 
     return get_list_urls(pelis_recomendadas)
 
@@ -105,33 +102,35 @@ def colaborativo(usuario):
 
     df_recomendacion = pd.merge(recomendacion_usuario, df_links, on='movieId')[['title', 'imdbId']]
 
-    return get_list_urls(df_recomendacion[:3])
+    return get_list_urls(df_recomendacion[:10])
 
  #--------------------------------------------------------------------------------------------#
 
 #Recomendacion por red neuronal
-def red_neuronal():
-    pass
-
+def red_neuronal(usuario):
+    df_movies = pd.read_csv("static/ml-latest-small/movies.csv",sep=",")
+    df_links = pd.read_csv("static/ml-latest-small/links.csv",sep=",")
+    df_movies = pd.merge(df_movies, df_links, on='movieId')[['title','movieId', 'imdbId']]
+    lista_usuario = [usuario] * len(df_movies.movieId)
+    adam = Adam(lr=0.005)
+    model = load_model('static/my_model.h5')
+    model.compile(optimizer=adam,loss= 'mean_absolute_error')
+    prediccion = pd.Series(model.predict([lista_usuario[:5000],df_movies.movieId[:5000]]).tolist())
+    df_movies['prediccion'] = prediccion
+    df_movies.sort_values(by=['prediccion'],inplace=True, ascending=False)
+    return get_list_urls(df_movies[:10])
 
 def vista(request):
 
     if request.method == 'POST':
-        print("-------------------------------------")
-        print(request.POST)
-        print("-------------------------------------")
         peli_idUser = request.POST.get('entrada', False)
         modelo = int(request.POST.get('contenido', False))
         if modelo == 1:
-            print("ENTRE2")
             pelis = por_contenido(str(peli_idUser))
-            print(pelis)
         elif modelo == 2:
-            print("ENTRE")
             pelis = colaborativo(int(peli_idUser))
-            print(pelis)
         else:
-            pass
+            pelis = red_neuronal(int(peli_idUser))
 
     else:
         pelis = []
